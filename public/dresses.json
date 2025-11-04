@@ -1,0 +1,641 @@
+
+{
+  "version": "1.0.0",
+  "last_updated": "2025-11-02T12:00:00Z",
+  "image_base_url": "https://pub-6f7b25ea1d644d5eb906eb31f2cc8545.r2.dev",
+  "categories": [
+    {
+      "id": "hair",
+      "name": "Hair Styles",
+      "icon": "💇‍♀️",
+      "display_order": 1
+    },
+    {
+      "id": "top",
+      "name": "Tops & Necklines",
+      "icon": "👗",
+      "display_order": 2
+    },
+    {
+      "id": "skirt",
+      "name": "Skirt Styles",
+      "icon": "👑",
+      "display_order": 3
+    },
+    {
+      "id": "veil",
+      "name": "Veils",
+      "icon": "👰",
+      "display_order": 4
+    },
+    {
+      "id": "gloves",
+      "name": "Gloves",
+      "icon": "🧤",
+      "display_order": 5
+    }
+  ],
+  "options": [
+    {
+      "id": 1,
+      "category_id": "hair",
+      "name": "Low Bun Updo",
+      "description": "Classic low bun updo, elegant and timeless",
+      "image_url": "webp/hair/1.webp",
+      "thumbnail_url": "webp/hair/1_thumb.webp",
+      "overlay_image": "1_hair",
+      "tags": ["classic", "elegant", "updo"]
+    },
+    {
+      "id": 2,
+      "category_id": "hair",
+      "name": "Loose Waves",
+      "description": "Soft, romantic loose waves",
+      "image_url": "webp/hair/2.webp",
+      "thumbnail_url": "webp/hair/2_thumb.webp",
+      "overlay_image": "2_hair",
+      "tags": ["romantic", "soft", "waves"]
+    },
+    {
+      "id": 3,
+      "category_id": "hair",
+      "name": "Braided Crown",
+      "description": "Bohemian braided crown hairstyle",
+      "image_url": "webp/hair/3.webp",
+      "thumbnail_url": "webp/hair/3_thumb.webp",
+      "overlay_image": "3_hair",
+      "tags": ["bohemian", "braided", "crown"]
+    },
+    {
+      "id": 4,
+      "category_id": "hair",
+      "name": "Classic Chignon",
+      "description": "Sophisticated classic chignon",
+      "image_url": "webp/hair/4.webp",
+      "thumbnail_url": "webp/hair/4_thumb.webp",
+      "overlay_image": "4_hair",
+      "tags": ["classic", "sophisticated", "updo"]
+    },
+    {
+      "id": 5,
+      "category_id": "hair",
+      "name": "Messy Bun",
+      "description": "Relaxed messy bun style",
+      "image_url": "webp/hair/5.webp",
+      "thumbnail_url": "webp/hair/5_thumb.webp",
+      "overlay_image": "5_hair",
+      "tags": ["casual", "messy", "relaxed"]
+    },
+    {
+      "id": 6,
+      "category_id": "hair",
+      "name": "Sleek Bun",
+      "description": "Modern sleek bun",
+      "image_url": "webp/hair/6.webp",
+      "thumbnail_url": "webp/hair/6_thumb.webp",
+      "overlay_image": "6_hair",
+      "tags": ["modern", "sleek", "minimalist"]
+    },
+    {
+      "id": 7,
+      "category_id": "hair",
+      "name": "Full Down Waves",
+      "description": "Glamorous full down waves",
+      "image_url": "webp/hair/7.webp",
+      "thumbnail_url": "webp/hair/7_thumb.webp",
+      "overlay_image": "7_hair",
+      "tags": ["glamorous", "flowing", "waves"]
+    },
+    {
+      "id": 8,
+      "category_id": "hair",
+      "name": "High Ponytail",
+      "description": "Chic high ponytail",
+      "image_url": "webp/hair/8.webp",
+      "thumbnail_url": "webp/hair/8_thumb.webp",
+      "overlay_image": "8_hair",
+      "tags": ["modern", "chic", "ponytail"]
+    },
+    {
+      "id": 9,
+      "category_id": "hair",
+      "name": "Half Braid",
+      "description": "Romantic half-up braid",
+      "image_url": "webp/hair/9.webp",
+      "thumbnail_url": "webp/hair/9_thumb.webp",
+      "overlay_image": "9_hair",
+      "tags": ["romantic", "half-up", "braided"]
+    },
+    {
+      "id": 10,
+      "category_id": "hair",
+      "name": "Loose Braid",
+      "description": "Soft loose side braid",
+      "image_url": "webp/hair/10.webp",
+      "thumbnail_url": "webp/hair/10_thumb.webp",
+      "overlay_image": "10_hair",
+      "tags": ["soft", "braided", "bohemian"]
+    },
+    {
+      "id": 11,
+      "category_id": "top",
+      "name": "Strapless Sweetheart",
+      "description": "Classic strapless sweetheart neckline",
+      "image_url": "webp/busts/1.webp",
+      "thumbnail_url": "webp/busts/1_thumb.webp",
+      "overlay_image": "1_top",
+      "tags": ["strapless", "sweetheart", "classic"]
+    },
+    {
+      "id": 12,
+      "category_id": "top",
+      "name": "Strapless Straight",
+      "description": "Modern strapless straight neckline",
+      "image_url": "webp/busts/2.webp",
+      "thumbnail_url": "webp/busts/2_thumb.webp",
+      "overlay_image": "2_top",
+      "tags": ["strapless", "straight", "modern"]
+    },
+    {
+      "id": 13,
+      "category_id": "top",
+      "name": "Spaghetti V-Neck",
+      "description": "Delicate spaghetti strap V-neckline",
+      "image_url": "webp/busts/3.webp",
+      "thumbnail_url": "webp/busts/3_thumb.webp",
+      "overlay_image": "3_top",
+      "tags": ["v-neck", "spaghetti", "delicate"]
+    },
+    {
+      "id": 14,
+      "category_id": "top",
+      "name": "Off-Shoulder",
+      "description": "Romantic off-shoulder design",
+      "image_url": "webp/busts/4.webp",
+      "thumbnail_url": "webp/busts/4_thumb.webp",
+      "overlay_image": "4_top",
+      "tags": ["off-shoulder", "romantic", "elegant"]
+    },
+    {
+      "id": 15,
+      "category_id": "top",
+      "name": "Halter-Neck",
+      "description": "Modern halter neckline",
+      "image_url": "webp/busts/5.webp",
+      "thumbnail_url": "webp/busts/5_thumb.webp",
+      "overlay_image": "5_top",
+      "tags": ["halter", "modern", "sleek"]
+    },
+    {
+      "id": 16,
+      "category_id": "top",
+      "name": "High-Neck",
+      "description": "Elegant high neckline",
+      "image_url": "webp/busts/6.webp",
+      "thumbnail_url": "webp/busts/6_thumb.webp",
+      "overlay_image": "6_top",
+      "tags": ["high-neck", "elegant", "modest"]
+    },
+    {
+      "id": 17,
+      "category_id": "top",
+      "name": "One-Shoulder",
+      "description": "Dramatic one-shoulder design",
+      "image_url": "webp/busts/7.webp",
+      "thumbnail_url": "webp/busts/7_thumb.webp",
+      "overlay_image": "7_top",
+      "tags": ["one-shoulder", "dramatic", "unique"]
+    },
+    {
+      "id": 18,
+      "category_id": "top",
+      "name": "Square Neckline",
+      "description": "Classic square neckline",
+      "image_url": "webp/busts/8.webp",
+      "thumbnail_url": "webp/busts/8_thumb.webp",
+      "overlay_image": "8_top",
+      "tags": ["square", "classic", "structured"]
+    },
+    {
+      "id": 19,
+      "category_id": "top",
+      "name": "Bateau Neckline",
+      "description": "Sophisticated bateau neckline",
+      "image_url": "webp/busts/9.webp",
+      "thumbnail_url": "webp/busts/9_thumb.webp",
+      "overlay_image": "9_top",
+      "tags": ["bateau", "sophisticated", "elegant"]
+    },
+    {
+      "id": 20,
+      "category_id": "top",
+      "name": "Scoop Neckline",
+      "description": "Soft scoop neckline",
+      "image_url": "webp/busts/10.webp",
+      "thumbnail_url": "webp/busts/10_thumb.webp",
+      "overlay_image": "10_top",
+      "tags": ["scoop", "soft", "feminine"]
+    },
+    {
+      "id": 21,
+      "category_id": "top",
+      "name": "Corset-Style",
+      "description": "Structured corset bodice",
+      "image_url": "webp/busts/11.webp",
+      "thumbnail_url": "webp/busts/11_thumb.webp",
+      "overlay_image": "11_top",
+      "tags": ["corset", "structured", "fitted"]
+    },
+    {
+      "id": 22,
+      "category_id": "top",
+      "name": "Sheer Illusion",
+      "description": "Delicate sheer illusion bodice",
+      "image_url": "webp/busts/12.webp",
+      "thumbnail_url": "webp/busts/12_thumb.webp",
+      "overlay_image": "12_top",
+      "tags": ["sheer", "illusion", "delicate"]
+    },
+    {
+      "id": 23,
+      "category_id": "top",
+      "name": "Long-Sleeved",
+      "description": "Elegant long-sleeved design",
+      "image_url": "webp/busts/13.webp",
+      "thumbnail_url": "webp/busts/13_thumb.webp",
+      "overlay_image": "13_top",
+      "tags": ["long-sleeve", "elegant", "modest"]
+    },
+    {
+      "id": 24,
+      "category_id": "top",
+      "name": "Puff-Sleeve",
+      "description": "Romantic puff sleeve detail",
+      "image_url": "webp/busts/14.webp",
+      "thumbnail_url": "webp/busts/14_thumb.webp",
+      "overlay_image": "14_top",
+      "tags": ["puff-sleeve", "romantic", "vintage"]
+    },
+    {
+      "id": 25,
+      "category_id": "top",
+      "name": "Deep Plunging V",
+      "description": "Dramatic deep V-neckline",
+      "image_url": "webp/busts/15.webp",
+      "thumbnail_url": "webp/busts/15_thumb.webp",
+      "overlay_image": "15_top",
+      "tags": ["v-neck", "plunging", "dramatic"]
+    },
+    {
+      "id": 26,
+      "category_id": "top",
+      "name": "Mock-Neck",
+      "description": "Modern mock turtleneck",
+      "image_url": "webp/busts/16.webp",
+      "thumbnail_url": "webp/busts/16_thumb.webp",
+      "overlay_image": "16_top",
+      "tags": ["mock-neck", "modern", "minimalist"]
+    },
+    {
+      "id": 27,
+      "category_id": "top",
+      "name": "Backless",
+      "description": "Stunning backless design",
+      "image_url": "webp/busts/17.webp",
+      "thumbnail_url": "webp/busts/17_thumb.webp",
+      "overlay_image": "17_top",
+      "tags": ["backless", "dramatic", "sexy"]
+    },
+    {
+      "id": 28,
+      "category_id": "top",
+      "name": "Sweetheart Corset",
+      "description": "Classic sweetheart corset bodice",
+      "image_url": "webp/busts/18.webp",
+      "thumbnail_url": "webp/busts/18_thumb.webp",
+      "overlay_image": "18_top",
+      "tags": ["sweetheart", "corset", "classic"]
+    },
+    {
+      "id": 29,
+      "category_id": "top",
+      "name": "Draped Satin",
+      "description": "Luxurious draped satin bodice",
+      "image_url": "webp/busts/19.webp",
+      "thumbnail_url": "webp/busts/19_thumb.webp",
+      "overlay_image": "19_top",
+      "tags": ["draped", "satin", "luxurious"]
+    },
+    {
+      "id": 30,
+      "category_id": "top",
+      "name": "Minimal Modern",
+      "description": "Clean minimal modern design",
+      "image_url": "webp/busts/20.webp",
+      "thumbnail_url": "webp/busts/20_thumb.webp",
+      "overlay_image": "20_top",
+      "tags": ["minimal", "modern", "clean"]
+    },
+    {
+      "id": 31,
+      "category_id": "skirt",
+      "name": "Ball Gown",
+      "description": "Dramatic princess ball gown skirt",
+      "image_url": "webp/skirts/1.webp",
+      "thumbnail_url": "webp/skirts/1_thumb.webp",
+      "overlay_image": "1_skirt",
+      "tags": ["ball-gown", "princess", "dramatic"]
+    },
+    {
+      "id": 32,
+      "category_id": "skirt",
+      "name": "A-Line",
+      "description": "Classic flattering A-line silhouette",
+      "image_url": "webp/skirts/2.webp",
+      "thumbnail_url": "webp/skirts/2_thumb.webp",
+      "overlay_image": "2_skirt",
+      "tags": ["a-line", "classic", "flattering"]
+    },
+    {
+      "id": 33,
+      "category_id": "skirt",
+      "name": "Mermaid",
+      "description": "Fitted mermaid silhouette",
+      "image_url": "webp/skirts/3.webp",
+      "thumbnail_url": "webp/skirts/3_thumb.webp",
+      "overlay_image": "3_skirt",
+      "tags": ["mermaid", "fitted", "dramatic"]
+    },
+    {
+      "id": 34,
+      "category_id": "skirt",
+      "name": "Trumpet",
+      "description": "Elegant trumpet flare",
+      "image_url": "webp/skirts/4.webp",
+      "thumbnail_url": "webp/skirts/4_thumb.webp",
+      "overlay_image": "4_skirt",
+      "tags": ["trumpet", "elegant", "fitted"]
+    },
+    {
+      "id": 35,
+      "category_id": "skirt",
+      "name": "Sheath",
+      "description": "Sleek column sheath dress",
+      "image_url": "webp/skirts/5.webp",
+      "thumbnail_url": "webp/skirts/5_thumb.webp",
+      "overlay_image": "5_skirt",
+      "tags": ["sheath", "sleek", "modern"]
+    },
+    {
+      "id": 36,
+      "category_id": "skirt",
+      "name": "Empire",
+      "description": "Romantic empire waist",
+      "image_url": "webp/skirts/6.webp",
+      "thumbnail_url": "webp/skirts/6_thumb.webp",
+      "overlay_image": "6_skirt",
+      "tags": ["empire", "romantic", "flowing"]
+    },
+    {
+      "id": 37,
+      "category_id": "skirt",
+      "name": "Fit-and-Flare",
+      "description": "Flattering fit-and-flare design",
+      "image_url": "webp/skirts/7.webp",
+      "thumbnail_url": "webp/skirts/7_thumb.webp",
+      "overlay_image": "7_skirt",
+      "tags": ["fit-and-flare", "flattering", "elegant"]
+    },
+    {
+      "id": 38,
+      "category_id": "skirt",
+      "name": "Tea-Length",
+      "description": "Vintage tea-length skirt",
+      "image_url": "webp/skirts/8.webp",
+      "thumbnail_url": "webp/skirts/8_thumb.webp",
+      "overlay_image": "8_skirt",
+      "tags": ["tea-length", "vintage", "playful"]
+    },
+    {
+      "id": 39,
+      "category_id": "skirt",
+      "name": "Mini",
+      "description": "Modern short mini dress",
+      "image_url": "webp/skirts/9.webp",
+      "thumbnail_url": "webp/skirts/9_thumb.webp",
+      "overlay_image": "9_skirt",
+      "tags": ["mini", "modern", "playful"]
+    },
+    {
+      "id": 40,
+      "category_id": "skirt",
+      "name": "High-Low",
+      "description": "Dramatic high-low hemline",
+      "image_url": "webp/skirts/10.webp",
+      "thumbnail_url": "webp/skirts/10_thumb.webp",
+      "overlay_image": "10_skirt",
+      "tags": ["high-low", "dramatic", "modern"]
+    },
+    {
+      "id": 41,
+      "category_id": "veil",
+      "name": "Cathedral Length Veil",
+      "description": "Dramatic cathedral length veil",
+      "image_url": "webp/veils/1.webp",
+      "thumbnail_url": "webp/veils/1_thumb.webp",
+      "overlay_image": "1_veil",
+      "tags": ["cathedral", "long", "dramatic"]
+    },
+    {
+      "id": 42,
+      "category_id": "veil",
+      "name": "Shoulder Length Veil",
+      "description": "Classic shoulder length veil",
+      "image_url": "webp/veils/2.webp",
+      "thumbnail_url": "webp/veils/2_thumb.webp",
+      "overlay_image": "2_veil",
+      "tags": ["shoulder", "classic", "short"]
+    },
+    {
+      "id": 43,
+      "category_id": "veil",
+      "name": "Two-Tier Fingertip Veil",
+      "description": "Elegant two-tier fingertip veil",
+      "image_url": "webp/veils/3.webp",
+      "thumbnail_url": "webp/veils/3_thumb.webp",
+      "overlay_image": "3_veil",
+      "tags": ["fingertip", "two-tier", "elegant"]
+    },
+    {
+      "id": 44,
+      "category_id": "veil",
+      "name": "Elbow-Length Veil",
+      "description": "Classic elbow-length veil",
+      "image_url": "webp/veils/4.webp",
+      "thumbnail_url": "webp/veils/4_thumb.webp",
+      "overlay_image": "4_veil",
+      "tags": ["elbow", "classic", "medium"]
+    },
+    {
+      "id": 45,
+      "category_id": "veil",
+      "name": "Cathedral Layered Veil",
+      "description": "Luxurious layered cathedral veil",
+      "image_url": "webp/veils/5.webp",
+      "thumbnail_url": "webp/veils/5_thumb.webp",
+      "overlay_image": "5_veil",
+      "tags": ["cathedral", "layered", "luxurious"]
+    },
+    {
+      "id": 46,
+      "category_id": "veil",
+      "name": "Fingertip Length Veil",
+      "description": "Popular fingertip length veil",
+      "image_url": "webp/veils/6.webp",
+      "thumbnail_url": "webp/veils/6_thumb.webp",
+      "overlay_image": "6_veil",
+      "tags": ["fingertip", "popular", "versatile"]
+    },
+    {
+      "id": 47,
+      "category_id": "veil",
+      "name": "Single-Layer Chapel Veil",
+      "description": "Elegant single-layer chapel veil",
+      "image_url": "webp/veils/7.webp",
+      "thumbnail_url": "webp/veils/7_thumb.webp",
+      "overlay_image": "7_veil",
+      "tags": ["chapel", "single-layer", "elegant"]
+    },
+    {
+      "id": 48,
+      "category_id": "veil",
+      "name": "Mantilla-Style Veil",
+      "description": "Romantic mantilla lace veil",
+      "image_url": "webp/veils/8.webp",
+      "thumbnail_url": "webp/veils/8_thumb.webp",
+      "overlay_image": "8_veil",
+      "tags": ["mantilla", "lace", "romantic"]
+    },
+    {
+      "id": 49,
+      "category_id": "veil",
+      "name": "Shoulder Length Minimal Veil",
+      "description": "Modern minimal shoulder veil",
+      "image_url": "webp/veils/9.webp",
+      "thumbnail_url": "webp/veils/9_thumb.webp",
+      "overlay_image": "9_veil",
+      "tags": ["shoulder", "minimal", "modern"]
+    },
+    {
+      "id": 50,
+      "category_id": "veil",
+      "name": "Chapel Length Veil",
+      "description": "Traditional chapel length veil",
+      "image_url": "webp/veils/10.webp",
+      "thumbnail_url": "webp/veils/10_thumb.webp",
+      "overlay_image": "10_veil",
+      "tags": ["chapel", "traditional", "long"]
+    },
+    {
+      "id": 51,
+      "category_id": "gloves",
+      "name": "Long Lace Gloves",
+      "description": "Elegant long lace gloves",
+      "image_url": "webp/gloves/1.webp",
+      "thumbnail_url": "webp/gloves/1_thumb.webp",
+      "overlay_image": "1_gloves",
+      "tags": ["long", "lace", "elegant"]
+    },
+    {
+      "id": 52,
+      "category_id": "gloves",
+      "name": "Short Satin Gloves",
+      "description": "Classic short satin gloves",
+      "image_url": "webp/gloves/2.webp",
+      "thumbnail_url": "webp/gloves/2_thumb.webp",
+      "overlay_image": "2_gloves",
+      "tags": ["short", "satin", "classic"]
+    },
+    {
+      "id": 53,
+      "category_id": "gloves",
+      "name": "Fingerless Lace Gloves",
+      "description": "Romantic fingerless lace gloves",
+      "image_url": "webp/gloves/3.webp",
+      "thumbnail_url": "webp/gloves/3_thumb.webp",
+      "overlay_image": "3_gloves",
+      "tags": ["fingerless", "lace", "romantic"]
+    },
+    {
+      "id": 54,
+      "category_id": "gloves",
+      "name": "Long Satin Gloves",
+      "description": "Glamorous long satin gloves",
+      "image_url": "webp/gloves/4.webp",
+      "thumbnail_url": "webp/gloves/4_thumb.webp",
+      "overlay_image": "4_gloves",
+      "tags": ["long", "satin", "glamorous"]
+    },
+    {
+      "id": 55,
+      "category_id": "gloves",
+      "name": "Elbow Lace & Tulle Gloves",
+      "description": "Delicate elbow lace and tulle gloves",
+      "image_url": "webp/gloves/5.webp",
+      "thumbnail_url": "webp/gloves/5_thumb.webp",
+      "overlay_image": "5_gloves",
+      "tags": ["elbow", "lace", "tulle"]
+    },
+    {
+      "id": 56,
+      "category_id": "gloves",
+      "name": "Short Lace Gloves",
+      "description": "Delicate short lace gloves",
+      "image_url": "webp/gloves/6.webp",
+      "thumbnail_url": "webp/gloves/6_thumb.webp",
+      "overlay_image": "6_gloves",
+      "tags": ["short", "lace", "delicate"]
+    },
+    {
+      "id": 57,
+      "category_id": "gloves",
+      "name": "Fingerless Satin Gloves",
+      "description": "Modern fingerless satin gloves",
+      "image_url": "webp/gloves/7.webp",
+      "thumbnail_url": "webp/gloves/7_thumb.webp",
+      "overlay_image": "7_gloves",
+      "tags": ["fingerless", "satin", "modern"]
+    },
+    {
+      "id": 58,
+      "category_id": "gloves",
+      "name": "Long Embroidered Lace Gloves",
+      "description": "Luxurious embroidered lace gloves",
+      "image_url": "webp/gloves/8.webp",
+      "thumbnail_url": "webp/gloves/8_thumb.webp",
+      "overlay_image": "8_gloves",
+      "tags": ["long", "embroidered", "luxurious"]
+    },
+    {
+      "id": 59,
+      "category_id": "gloves",
+      "name": "Full-Length Satin Gloves",
+      "description": "Dramatic full-length satin gloves",
+      "image_url": "webp/gloves/9.webp",
+      "thumbnail_url": "webp/gloves/9_thumb.webp",
+      "overlay_image": "9_gloves",
+      "tags": ["full-length", "satin", "dramatic"]
+    },
+    {
+      "id": 60,
+      "category_id": "gloves",
+      "name": "Short Bridal Gloves",
+      "description": "Classic short bridal gloves",
+      "image_url": "webp/gloves/10.webp",
+      "thumbnail_url": "webp/gloves/10_thumb.webp",
+      "overlay_image": "10_gloves",
+      "tags": ["short", "bridal", "classic"]
+    }
+  ]
+}
+
