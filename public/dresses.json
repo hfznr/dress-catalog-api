@@ -637,205 +637,205 @@
       "tags": ["short", "bridal", "classic"]
     },
     {
-      "id": 1000,
-      "category": "top",
-      "name": "none",
-      "description": "A strapless wedding dress crop top bodice, sweetheart neckline, lace appliques, beaded details, ending just below the bust and well above the natural waistline",
-      "image_url": "webp/top/1000.webp",
-      "thumbnail_url": "webp/top/1000_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1001,
-      "category": "top",
-      "name": "none",
-      "description": "A strapless wedding dress, sweetheart neckline, lace appliques, beaded details",
-      "image_url": "webp/top/1001.webp",
-      "thumbnail_url": "webp/top/1001_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1002,
-      "category": "top",
-      "name": "none",
-      "description": "A spaghetti strap wedding dress bodice, V-neckline, chiffon overlay, delicate lace trim",
-      "image_url": "webp/top/1002.webp",
-      "thumbnail_url": "webp/top/1002_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1003,
-      "category": "top",
-      "name": "none",
-      "description": "An off-shoulder wedding dress bodice, sweetheart neckline, floral lace details, corset-style back",
-      "image_url": "webp/top/1003.webp",
-      "thumbnail_url": "webp/top/1003_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1004,
-      "category": "top",
-      "name": "none",
-      "description": "A halter-neck wedding dress bodice, keyhole front, satin texture, crystal embellishments",
-      "image_url": "webp/top/1004.webp",
-      "thumbnail_url": "webp/top/1004_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1005,
-      "category": "top",
-      "name": "none",
-      "description": "A high-neck wedding dress bodice, sheer lace overlay, long illusion sleeves, pearl details",
-      "image_url": "webp/top/1005.webp",
-      "thumbnail_url": "webp/top/1005_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1006,
-      "category": "top",
-      "name": "none",
-      "description": "A one-shoulder wedding dress bodice, ruched satin fabric, asymmetric neckline, jeweled strap",
-      "image_url": "webp/top/1006.webp",
-      "thumbnail_url": "webp/top/1006_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1007,
-      "category": "top",
-      "name": "none",
-      "description": "A square neckline wedding dress bodice, thick straps, matte crepe fabric, structured corset",
-      "image_url": "webp/top/1007.webp",
-      "thumbnail_url": "webp/top/1007_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1008,
-      "category": "top",
-      "name": "none",
-      "description": "A bateau neckline wedding dress bodice, lace illusion top, sleeveless, beaded waistline",
-      "image_url": "webp/top/1008.webp",
-      "thumbnail_url": "webp/top/1008_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1009,
-      "category": "top",
-      "name": "none",
-      "description": "A scoop neckline wedding dress bodice, tulle overlay, floral embroidery, soft satin lining",
-      "image_url": "webp/top/1009.webp",
-      "thumbnail_url": "webp/top/1009_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1010,
-      "category": "skirt",
-      "name": "none",
-      "description": "A ball gown wedding dress skirt, full volume, multiple tulle layers",
-      "image_url": "webp/skirt/1010.webp",
-      "thumbnail_url": "webp/skirt/1010_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1011,
-      "category": "skirt",
-      "name": "none",
-      "description": "An A-line wedding dress skirt, smooth satin fabric, gentle flare",
-      "image_url": "webp/skirt/1011.webp",
-      "thumbnail_url": "webp/skirt/1011_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": "1012",
-      "category": "skirt",
-      "name": "none",
-      "description": "A mermaid wedding dress skirt, fitted through hips, flaring at knees",
-      "image_url": "webp/skirt/1012.webp",
-      "thumbnail_url": "webp/skirt/1012_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1013,
-      "category": "skirt",
-      "name": "none",
-      "description": "A trumpet wedding dress skirt, slightly flared below mid-thigh, structured satin fabric",
-      "image_url": "webp/skirt/1013.webp",
-      "thumbnail_url": "webp/skirt/1013_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": "1014",
-      "category": "skirt",
-      "name": "none",
-      "description": "A sheath wedding dress skirt, slim silhouette, minimal crepe fabric, pure white background",
-      "image_url": "webp/skirt/1014.webp",
-      "thumbnail_url": "webp/skirt/1014_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1015,
-      "category": "skirt",
-      "name": "none",
-      "description": "An empire wedding dress skirt, flowing chiffon fabric, light drape",
-      "image_url": "webp/skirt/1015.webp",
-      "thumbnail_url": "webp/skirt/1015_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1016,
-      "category": "skirt",
-      "name": "none",
-      "description": "A fit-and-flare wedding dress skirt, body-hugging upper part, flared hemline",
-      "image_url": "webp/skirt/1016.webp",
-      "thumbnail_url": "webp/skirt/1016_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1017,
-      "category": "skirt",
-      "name": "none",
-      "description": "A tea-length wedding dress skirt, mid-calf length, soft tulle layers",
-      "image_url": "webp/skirt/1017.webp",
-      "thumbnail_url": "webp/skirt/1017_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1018,
-      "category": "skirt",
-      "name": "none",
-      "description": "A mini wedding dress skirt, short above knee length, satin fabric",
-      "image_url": "webp/skirt/1018.webp",
-      "thumbnail_url": "webp/skirt/1018_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    },
-    {
-      "id": 1019,
-      "category": "skirt",
-      "name": "none",
-      "description": "A high-low wedding dress skirt, short front and long back hem, layered tulle",
-      "image_url": "webp/skirt/1019.webp",
-      "thumbnail_url": "webp/skirt/1019_thumb.webp",
-      "overlay_image": "none",
-      "tags": "none"
-    }
+          "id": 1000,
+          "category_id": "top",
+          "name": "Lace Crop Top",
+          "description": "A strapless wedding dress crop top bodice, sweetheart neckline, lace appliques, beaded details, ending just below the bust",
+          "image_url": "webp/busts/1000.webp",
+          "thumbnail_url": "webp/busts/1000_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["strapless", "lace", "beaded", "crop-top"]
+        },
+        {
+          "id": 1001,
+          "category_id": "top",
+          "name": "Strapless Lace",
+          "description": "A strapless wedding dress, sweetheart neckline, lace appliques, beaded details",
+          "image_url": "webp/busts/1001.webp",
+          "thumbnail_url": "webp/busts/1001_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["strapless", "sweetheart", "lace"]
+        },
+        {
+          "id": 1002,
+          "category_id": "top",
+          "name": "Chiffon V-Neck",
+          "description": "A spaghetti strap wedding dress bodice, V-neckline, chiffon overlay, delicate lace trim",
+          "image_url": "webp/busts/1002.webp",
+          "thumbnail_url": "webp/busts/1002_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["v-neck", "spaghetti", "chiffon"]
+        },
+        {
+          "id": 1003,
+          "category_id": "top",
+          "name": "Floral Off-Shoulder",
+          "description": "An off-shoulder wedding dress bodice, sweetheart neckline, floral lace details, corset-style back",
+          "image_url": "webp/busts/1003.webp",
+          "thumbnail_url": "webp/busts/1003_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["off-shoulder", "floral", "corset"]
+        },
+        {
+          "id": 1004,
+          "category_id": "top",
+          "name": "Crystal Halter",
+          "description": "A halter-neck wedding dress bodice, keyhole front, satin texture, crystal embellishments",
+          "image_url": "webp/busts/1004.webp",
+          "thumbnail_url": "webp/busts/1004_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["halter", "satin", "crystal"]
+        },
+        {
+          "id": 1005,
+          "category_id": "top",
+          "name": "Illusion High-Neck",
+          "description": "A high-neck wedding dress bodice, sheer lace overlay, long illusion sleeves, pearl details",
+          "image_url": "webp/busts/1005.webp",
+          "thumbnail_url": "webp/busts/1005_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["high-neck", "illusion", "long-sleeve"]
+        },
+        {
+          "id": 1006,
+          "category_id": "top",
+          "name": "Ruched One-Shoulder",
+          "description": "A one-shoulder wedding dress bodice, ruched satin fabric, asymmetric neckline, jeweled strap",
+          "image_url": "webp/busts/1006.webp",
+          "thumbnail_url": "webp/busts/1006_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["one-shoulder", "ruched", "satin"]
+        },
+        {
+          "id": 1007,
+          "category_id": "top",
+          "name": "Crepe Square Neck",
+          "description": "A square neckline wedding dress bodice, thick straps, matte crepe fabric, structured corset",
+          "image_url": "webp/busts/1007.webp",
+          "thumbnail_url": "webp/busts/1007_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["square", "crepe", "corset"]
+        },
+        {
+          "id": 1008,
+          "category_id": "top",
+          "name": "Illusion Bateau",
+          "description": "A bateau neckline wedding dress bodice, lace illusion top, sleeveless, beaded waistline",
+          "image_url": "webp/busts/1008.webp",
+          "thumbnail_url": "webp/busts/1008_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["bateau", "illusion", "beaded"]
+        },
+        {
+          "id": 1009,
+          "category_id": "top",
+          "name": "Embroidered Scoop",
+          "description": "A scoop neckline wedding dress bodice, tulle overlay, floral embroidery, soft satin lining",
+          "image_url": "webp/busts/1009.webp",
+          "thumbnail_url": "webp/busts/1009_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["scoop", "floral", "tulle"]
+        },
+        {
+          "id": 1010,
+          "category_id": "skirt",
+          "name": "Tulle Ball Gown",
+          "description": "A ball gown wedding dress skirt, full volume, multiple tulle layers",
+          "image_url": "webp/skirts/1010.webp",
+          "thumbnail_url": "webp/skirts/1010_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["ball-gown", "tulle", "volume"]
+        },
+        {
+          "id": 1011,
+          "category_id": "skirt",
+          "name": "Satin A-Line",
+          "description": "An A-line wedding dress skirt, smooth satin fabric, gentle flare",
+          "image_url": "webp/skirts/1011.webp",
+          "thumbnail_url": "webp/skirts/1011_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["a-line", "satin", "classic"]
+        },
+        {
+          "id": 1012,
+          "category_id": "skirt",
+          "name": "Fitted Mermaid",
+          "description": "A mermaid wedding dress skirt, fitted through hips, flaring at knees",
+          "image_url": "webp/skirts/1012.webp",
+          "thumbnail_url": "webp/skirts/1012_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["mermaid", "fitted", "flare"]
+        },
+        {
+          "id": 1013,
+          "category_id": "skirt",
+          "name": "Structured Trumpet",
+          "description": "A trumpet wedding dress skirt, slightly flared below mid-thigh, structured satin fabric",
+          "image_url": "webp/skirts/1013.webp",
+          "thumbnail_url": "webp/skirts/1013_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["trumpet", "satin", "structured"]
+        },
+        {
+          "id": 1014,
+          "category_id": "skirt",
+          "name": "Minimal Sheath",
+          "description": "A sheath wedding dress skirt, slim silhouette, minimal crepe fabric, pure white background",
+          "image_url": "webp/skirts/1014.webp",
+          "thumbnail_url": "webp/skirts/1014_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["sheath", "crepe", "minimal"]
+        },
+        {
+          "id": 1015,
+          "category_id": "skirt",
+          "name": "Chiffon Empire",
+          "description": "An empire wedding dress skirt, flowing chiffon fabric, light drape",
+          "image_url": "webp/skirts/1015.webp",
+          "thumbnail_url": "webp/skirts/1015_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["empire", "chiffon", "flowing"]
+        },
+        {
+          "id": 1016,
+          "category_id": "skirt",
+          "name": "Fit-and-Flare",
+          "description": "A fit-and-flare wedding dress skirt, body-hugging upper part, flared hemline",
+          "image_url": "webp/skirts/1016.webp",
+          "thumbnail_url": "webp/skirts/1016_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["fit-and-flare", "fitted", "modern"]
+        },
+        {
+          "id": 1017,
+          "category_id": "skirt",
+          "name": "Tulle Tea-Length",
+          "description": "A tea-length wedding dress skirt, mid-calf length, soft tulle layers",
+          "image_url": "webp/skirts/1017.webp",
+          "thumbnail_url": "webp/skirts/1017_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["tea-length", "tulle", "vintage"]
+        },
+        {
+          "id": 1018,
+          "category_id": "skirt",
+          "name": "Satin Mini",
+          "description": "A mini wedding dress skirt, short above knee length, satin fabric",
+          "image_url": "webp/skirts/1018.webp",
+          "thumbnail_url": "webp/skirts/1018_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["mini", "satin", "short"]
+        },
+        {
+          "id": 1019,
+          "category_id": "skirt",
+          "name": "Tulle High-Low",
+          "description": "A high-low wedding dress skirt, short front and long back hem, layered tulle",
+          "image_url": "webp/skirts/1019.webp",
+          "thumbnail_url": "webp/skirts/1019_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["high-low", "tulle", "asymmetric"]
+        }
   ]
 }
 
