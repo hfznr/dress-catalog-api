@@ -636,206 +636,507 @@
       "overlay_image": "10_gloves",
       "tags": ["short", "bridal", "classic"]
     },
-    {
-          "id": 1000,
-          "category_id": "top",
-          "name": "Lace Crop Top",
-          "description": "A strapless wedding dress crop top bodice, sweetheart neckline, lace appliques, beaded details, ending just below the bust",
-          "image_url": "webp/busts/1000.webp",
-          "thumbnail_url": "webp/busts/1000_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["strapless", "lace", "beaded", "crop-top"]
-        },
-        {
-          "id": 1001,
-          "category_id": "top",
-          "name": "Strapless Lace",
-          "description": "A strapless wedding dress, sweetheart neckline, lace appliques, beaded details",
-          "image_url": "webp/busts/1001.webp",
-          "thumbnail_url": "webp/busts/1001_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["strapless", "sweetheart", "lace"]
-        },
-        {
-          "id": 1002,
-          "category_id": "top",
-          "name": "Chiffon V-Neck",
-          "description": "A spaghetti strap wedding dress bodice, V-neckline, chiffon overlay, delicate lace trim",
-          "image_url": "webp/busts/1002.webp",
-          "thumbnail_url": "webp/busts/1002_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["v-neck", "spaghetti", "chiffon"]
-        },
-        {
-          "id": 1003,
-          "category_id": "top",
-          "name": "Floral Off-Shoulder",
-          "description": "An off-shoulder wedding dress bodice, sweetheart neckline, floral lace details, corset-style back",
-          "image_url": "webp/busts/1003.webp",
-          "thumbnail_url": "webp/busts/1003_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["off-shoulder", "floral", "corset"]
-        },
-        {
-          "id": 1004,
-          "category_id": "top",
-          "name": "Crystal Halter",
-          "description": "A halter-neck wedding dress bodice, keyhole front, satin texture, crystal embellishments",
-          "image_url": "webp/busts/1004.webp",
-          "thumbnail_url": "webp/busts/1004_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["halter", "satin", "crystal"]
-        },
-        {
-          "id": 1005,
-          "category_id": "top",
-          "name": "Illusion High-Neck",
-          "description": "A high-neck wedding dress bodice, sheer lace overlay, long illusion sleeves, pearl details",
-          "image_url": "webp/busts/1005.webp",
-          "thumbnail_url": "webp/busts/1005_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["high-neck", "illusion", "long-sleeve"]
-        },
-        {
-          "id": 1006,
-          "category_id": "top",
-          "name": "Ruched One-Shoulder",
-          "description": "A one-shoulder wedding dress bodice, ruched satin fabric, asymmetric neckline, jeweled strap",
-          "image_url": "webp/busts/1006.webp",
-          "thumbnail_url": "webp/busts/1006_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["one-shoulder", "ruched", "satin"]
-        },
-        {
-          "id": 1007,
-          "category_id": "top",
-          "name": "Crepe Square Neck",
-          "description": "A square neckline wedding dress bodice, thick straps, matte crepe fabric, structured corset",
-          "image_url": "webp/busts/1007.webp",
-          "thumbnail_url": "webp/busts/1007_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["square", "crepe", "corset"]
-        },
-        {
-          "id": 1008,
-          "category_id": "top",
-          "name": "Illusion Bateau",
-          "description": "A bateau neckline wedding dress bodice, lace illusion top, sleeveless, beaded waistline",
-          "image_url": "webp/busts/1008.webp",
-          "thumbnail_url": "webp/busts/1008_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["bateau", "illusion", "beaded"]
-        },
-        {
-          "id": 1009,
-          "category_id": "top",
-          "name": "Embroidered Scoop",
-          "description": "A scoop neckline wedding dress bodice, tulle overlay, floral embroidery, soft satin lining",
-          "image_url": "webp/busts/1009.webp",
-          "thumbnail_url": "webp/busts/1009_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["scoop", "floral", "tulle"]
-        },
-        {
-          "id": 1010,
-          "category_id": "skirt",
-          "name": "Tulle Ball Gown",
-          "description": "A ball gown wedding dress skirt, full volume, multiple tulle layers",
-          "image_url": "webp/skirts/1010.webp",
-          "thumbnail_url": "webp/skirts/1010_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["ball-gown", "tulle", "volume"]
-        },
-        {
-          "id": 1011,
-          "category_id": "skirt",
-          "name": "Satin A-Line",
-          "description": "An A-line wedding dress skirt, smooth satin fabric, gentle flare",
-          "image_url": "webp/skirts/1011.webp",
-          "thumbnail_url": "webp/skirts/1011_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["a-line", "satin", "classic"]
-        },
-        {
-          "id": 1012,
-          "category_id": "skirt",
-          "name": "Fitted Mermaid",
-          "description": "A mermaid wedding dress skirt, fitted through hips, flaring at knees",
-          "image_url": "webp/skirts/1012.webp",
-          "thumbnail_url": "webp/skirts/1012_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["mermaid", "fitted", "flare"]
-        },
-        {
-          "id": 1013,
-          "category_id": "skirt",
-          "name": "Structured Trumpet",
-          "description": "A trumpet wedding dress skirt, slightly flared below mid-thigh, structured satin fabric",
-          "image_url": "webp/skirts/1013.webp",
-          "thumbnail_url": "webp/skirts/1013_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["trumpet", "satin", "structured"]
-        },
-        {
-          "id": 1014,
-          "category_id": "skirt",
-          "name": "Minimal Sheath",
-          "description": "A sheath wedding dress skirt, slim silhouette, minimal crepe fabric, pure white background",
-          "image_url": "webp/skirts/1014.webp",
-          "thumbnail_url": "webp/skirts/1014_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["sheath", "crepe", "minimal"]
-        },
-        {
-          "id": 1015,
-          "category_id": "skirt",
-          "name": "Chiffon Empire",
-          "description": "An empire wedding dress skirt, flowing chiffon fabric, light drape",
-          "image_url": "webp/skirts/1015.webp",
-          "thumbnail_url": "webp/skirts/1015_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["empire", "chiffon", "flowing"]
-        },
-        {
-          "id": 1016,
-          "category_id": "skirt",
-          "name": "Fit-and-Flare",
-          "description": "A fit-and-flare wedding dress skirt, body-hugging upper part, flared hemline",
-          "image_url": "webp/skirts/1016.webp",
-          "thumbnail_url": "webp/skirts/1016_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["fit-and-flare", "fitted", "modern"]
-        },
-        {
-          "id": 1017,
-          "category_id": "skirt",
-          "name": "Tulle Tea-Length",
-          "description": "A tea-length wedding dress skirt, mid-calf length, soft tulle layers",
-          "image_url": "webp/skirts/1017.webp",
-          "thumbnail_url": "webp/skirts/1017_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["tea-length", "tulle", "vintage"]
-        },
-        {
-          "id": 1018,
-          "category_id": "skirt",
-          "name": "Satin Mini",
-          "description": "A mini wedding dress skirt, short above knee length, satin fabric",
-          "image_url": "webp/skirts/1018.webp",
-          "thumbnail_url": "webp/skirts/1018_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["mini", "satin", "short"]
-        },
-        {
-          "id": 1019,
-          "category_id": "skirt",
-          "name": "Tulle High-Low",
-          "description": "A high-low wedding dress skirt, short front and long back hem, layered tulle",
-          "image_url": "webp/skirts/1019.webp",
-          "thumbnail_url": "webp/skirts/1019_thumb.webp",
-          "overlay_image": "none",
-          "tags": ["high-low", "tulle", "asymmetric"]
-        }
+    [
+      {
+        "id": 1000,
+        "category_id": "top",
+        "name": "Strapless Crop Top",
+        "description": "A strapless wedding dress crop top bodice, sweetheart neckline, lace appliques, beaded details, ending just below the bust",
+        "image_url": "webp/busts/1000.webp",
+        "thumbnail_url": "webp/busts/1000_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["strapless", "crop-top", "lace", "beaded"]
+      },
+      {
+        "id": 1001,
+        "category_id": "top",
+        "name": "Sweetheart Lace Bodice",
+        "description": "A strapless wedding dress, sweetheart neckline, lace appliques, beaded details",
+        "image_url": "webp/busts/1001.webp",
+        "thumbnail_url": "webp/busts/1001_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["strapless", "sweetheart", "classic", "lace"]
+      },
+      {
+        "id": 1002,
+        "category_id": "top",
+        "name": "Chiffon V-Neck",
+        "description": "A spaghetti strap wedding dress bodice, V-neckline, chiffon overlay, delicate lace trim",
+        "image_url": "webp/busts/1002.webp",
+        "thumbnail_url": "webp/busts/1002_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["spaghetti-strap", "v-neck", "chiffon", "boho"]
+      },
+      {
+        "id": 1003,
+        "category_id": "top",
+        "name": "Floral Off-Shoulder",
+        "description": "An off-shoulder wedding dress bodice, sweetheart neckline, floral lace details, corset-style back",
+        "image_url": "webp/busts/1003.webp",
+        "thumbnail_url": "webp/busts/1003_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["off-shoulder", "floral", "corset", "romantic"]
+      },
+      {
+        "id": 1004,
+        "category_id": "top",
+        "name": "Crystal Halter Neck",
+        "description": "A halter-neck wedding dress bodice, keyhole front, satin texture, crystal embellishments",
+        "image_url": "webp/busts/1004.webp",
+        "thumbnail_url": "webp/busts/1004_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["halter", "satin", "crystal", "glamorous"]
+      },
+      {
+        "id": 1005,
+        "category_id": "top",
+        "name": "Illusion High-Neck",
+        "description": "A high-neck wedding dress bodice, sheer lace overlay, long illusion sleeves, pearl details",
+        "image_url": "webp/busts/1005.webp",
+        "thumbnail_url": "webp/busts/1005_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["high-neck", "illusion", "sleeves", "vintage"]
+      },
+      {
+        "id": 1006,
+        "category_id": "top",
+        "name": "Asymmetric One-Shoulder",
+        "description": "A one-shoulder wedding dress bodice, ruched satin fabric, asymmetric neckline, jeweled strap",
+        "image_url": "webp/busts/1006.webp",
+        "thumbnail_url": "webp/busts/1006_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["one-shoulder", "asymmetric", "satin", "modern"]
+      },
+      {
+        "id": 1007,
+        "category_id": "top",
+        "name": "Structured Square Neck",
+        "description": "A square neckline wedding dress bodice, thick straps, matte crepe fabric, structured corset",
+        "image_url": "webp/busts/1007.webp",
+        "thumbnail_url": "webp/busts/1007_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["square-neck", "crepe", "minimalist", "structured"]
+      },
+      {
+        "id": 1008,
+        "category_id": "top",
+        "name": "Lace Illusion Bateau",
+        "description": "A bateau neckline wedding dress bodice, lace illusion top, sleeveless, beaded waistline",
+        "image_url": "webp/busts/1008.webp",
+        "thumbnail_url": "webp/busts/1008_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["bateau", "illusion", "lace", "elegant"]
+      },
+      {
+        "id": 1009,
+        "category_id": "top",
+        "name": "Embroidered Scoop Neck",
+        "description": "A scoop neckline wedding dress bodice, tulle overlay, floral embroidery, soft satin lining",
+        "image_url": "webp/busts/1009.webp",
+        "thumbnail_url": "webp/busts/1009_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["scoop-neck", "embroidery", "tulle", "romantic"]
+      },
+      {
+        "id": 1010,
+        "category_id": "skirt",
+        "name": "Voluminous Ball Gown",
+        "description": "A ball gown wedding dress skirt, full volume, multiple tulle layers",
+        "image_url": "webp/skirts/1010.webp",
+        "thumbnail_url": "webp/skirts/1010_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["ball-gown", "tulle", "volume", "princess"]
+      },
+      {
+        "id": 1011,
+        "category_id": "skirt",
+        "name": "Satin A-Line",
+        "description": "An A-line wedding dress skirt, smooth satin fabric, gentle flare",
+        "image_url": "webp/skirts/1011.webp",
+        "thumbnail_url": "webp/skirts/1011_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["a-line", "satin", "classic", "simple"]
+      },
+      {
+        "id": 1012,
+        "category_id": "skirt",
+        "name": "Fitted Mermaid",
+        "description": "A mermaid wedding dress skirt, fitted through hips, flaring at knees",
+        "image_url": "webp/skirts/1012.webp",
+        "thumbnail_url": "webp/skirts/1012_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["mermaid", "fitted", "dramatic", "flare"]
+      },
+      {
+        "id": 1013,
+        "category_id": "skirt",
+        "name": "Structured Trumpet",
+        "description": "A trumpet wedding dress skirt, slightly flared below mid-thigh, structured satin fabric",
+        "image_url": "webp/skirts/1013.webp",
+        "thumbnail_url": "webp/skirts/1013_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["trumpet", "satin", "structured", "elegant"]
+      },
+      {
+        "id": 1014,
+        "category_id": "skirt",
+        "name": "Minimalist Sheath",
+        "description": "A sheath wedding dress skirt, slim silhouette, minimal crepe fabric, pure white background",
+        "image_url": "webp/skirts/1014.webp",
+        "thumbnail_url": "webp/skirts/1014_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["sheath", "crepe", "modern", "slim"]
+      },
+      {
+        "id": 1015,
+        "category_id": "skirt",
+        "name": "Flowing Empire",
+        "description": "An empire wedding dress skirt, flowing chiffon fabric, light drape",
+        "image_url": "webp/skirts/1015.webp",
+        "thumbnail_url": "webp/skirts/1015_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["empire", "chiffon", "flowing", "boho"]
+      },
+      {
+        "id": 1016,
+        "category_id": "skirt",
+        "name": "Fit-and-Flare",
+        "description": "A fit-and-flare wedding dress skirt, body-hugging upper part, flared hemline",
+        "image_url": "webp/skirts/1016.webp",
+        "thumbnail_url": "webp/skirts/1016_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["fit-and-flare", "modern", "fitted"]
+      },
+      {
+        "id": 1017,
+        "category_id": "skirt",
+        "name": "Tulle Tea-Length",
+        "description": "A tea-length wedding dress skirt, mid-calf length, soft tulle layers",
+        "image_url": "webp/skirts/1017.webp",
+        "thumbnail_url": "webp/skirts/1017_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["tea-length", "tulle", "vintage", "short"]
+      },
+      {
+        "id": 1018,
+        "category_id": "skirt",
+        "name": "Satin Mini",
+        "description": "A mini wedding dress skirt, short above knee length, satin fabric",
+        "image_url": "webp/skirts/1018.webp",
+        "thumbnail_url": "webp/skirts/1018_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["mini", "satin", "short", "party"]
+      },
+      {
+        "id": 1019,
+        "category_id": "skirt",
+        "name": "Tulle High-Low",
+        "description": "A high-low wedding dress skirt, short front and long back hem, layered tulle",
+        "image_url": "webp/skirts/1019.webp",
+        "thumbnail_url": "webp/skirts/1019_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["high-low", "tulle", "asymmetric", "modern"]
+      },
+      {
+        "id": 1020,
+        "category_id": "hair",
+        "name": "Low Bun Updo",
+        "description": "Low Bun Updo, elegant bridal updo, low bun with loose curls, natural light brown hair",
+        "image_url": "webp/hair/1020.webp",
+        "thumbnail_url": "webp/hair/1020_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["updo", "low-bun", "elegant", "curls"]
+      },
+      {
+        "id": 1021,
+        "category_id": "hair",
+        "name": "Loose Waves Half-Up",
+        "description": "Loose Waves, half-up half-down style with loose waves, golden blonde hair",
+        "image_url": "webp/hair/1021.webp",
+        "thumbnail_url": "webp/hair/1021_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["half-up", "waves", "romantic", "loose"]
+      },
+      {
+        "id": 1022,
+        "category_id": "hair",
+        "name": "Braided Crown",
+        "description": "Braided Crown, romantic crown braid with clean texture, medium brown hair",
+        "image_url": "webp/hair/1022.webp",
+        "thumbnail_url": "webp/hair/1022_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["braid", "crown", "boho", "textured"]
+      },
+      {
+        "id": 1023,
+        "category_id": "hair",
+        "name": "Classic Chignon",
+        "description": "Classic Chignon, smooth low chignon, dark brown hair",
+        "image_url": "webp/hair/1023.webp",
+        "thumbnail_url": "webp/hair/1023_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["chignon", "classic", "smooth", "formal"]
+      },
+      {
+        "id": 1024,
+        "category_id": "hair",
+        "name": "Messy Bun",
+        "description": "Messy Bun, soft messy bun with loose romantic curls, light brunette hair",
+        "image_url": "webp/hair/1024.webp",
+        "thumbnail_url": "webp/hair/1024_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["messy-bun", "casual", "romantic", "soft"]
+      },
+      {
+        "id": 1025,
+        "category_id": "hair",
+        "name": "Sleek Bun",
+        "description": "Sleek Bun, sleek center-parted bun, glossy black hair",
+        "image_url": "webp/hair/1025.webp",
+        "thumbnail_url": "webp/hair/1025_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["sleek", "bun", "modern", "minimal"]
+      },
+      {
+        "id": 1026,
+        "category_id": "hair",
+        "name": "Full Down Waves",
+        "description": "Full Down Waves, long hairstyle with full loose waves, platinum blonde hair",
+        "image_url": "webp/hair/1026.webp",
+        "thumbnail_url": "webp/hair/1026_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["down", "waves", "glamorous", "long"]
+      },
+      {
+        "id": 1027,
+        "category_id": "hair",
+        "name": "High Ponytail",
+        "description": "High Ponytail, high ponytail with smooth base and soft curls at ends, chestnut brown hair",
+        "image_url": "webp/hair/1027.webp",
+        "thumbnail_url": "webp/hair/1027_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["ponytail", "high", "modern", "chic"]
+      },
+      {
+        "id": 1028,
+        "category_id": "hair",
+        "name": "Half Braid Fishtail",
+        "description": "Half Braid, half-up half-down fishtail braid with flowing ends, ash blonde hair",
+        "image_url": "webp/hair/1028.webp",
+        "thumbnail_url": "webp/hair/1028_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["braid", "fishtail", "half-up", "boho"]
+      },
+      {
+        "id": 1029,
+        "category_id": "hair",
+        "name": "Loose Side Braid",
+        "description": "Loose Braid, relaxed loose braid with pulled-out strands, warm caramel hair",
+        "image_url": "webp/hair/1029.webp",
+        "thumbnail_url": "webp/hair/1029_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["braid", "loose", "relaxed", "rustic"]
+      },
+      {
+        "id": 1030,
+        "category_id": "gloves",
+        "name": "Long Lace Gloves",
+        "description": "Long lace bridal gloves, elbow length, delicate floral pattern",
+        "image_url": "webp/gloves/1030.webp",
+        "thumbnail_url": "webp/gloves/1030_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "lace", "long", "floral"]
+      },
+      {
+        "id": 1031,
+        "category_id": "gloves",
+        "name": "Short Satin Gloves",
+        "description": "Short white satin bridal gloves, wrist length, pearl button detail",
+        "image_url": "webp/gloves/1031.webp",
+        "thumbnail_url": "webp/gloves/1031_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "satin", "short", "pearl"]
+      },
+      {
+        "id": 1032,
+        "category_id": "gloves",
+        "name": "Fingerless Lace Gloves",
+        "description": "Fingerless lace bridal gloves, forearm length, vintage style, delicate embroidery",
+        "image_url": "webp/gloves/1032.webp",
+        "thumbnail_url": "webp/gloves/1032_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "fingerless", "lace", "vintage"]
+      },
+      {
+        "id": 1033,
+        "category_id": "gloves",
+        "name": "Long Satin Gloves",
+        "description": "Long satin bridal gloves, full arm length, smooth texture",
+        "image_url": "webp/gloves/1033.webp",
+        "thumbnail_url": "webp/gloves/1033_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "satin", "long", "classic"]
+      },
+      {
+        "id": 1034,
+        "category_id": "gloves",
+        "name": "Elbow Lace & Tulle",
+        "description": "Elbow-length lace and tulle bridal gloves, floral motifs",
+        "image_url": "webp/gloves/1034.webp",
+        "thumbnail_url": "webp/gloves/1034_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "tulle", "lace", "elbow-length"]
+      },
+      {
+        "id": 1035,
+        "category_id": "gloves",
+        "name": "Short Lace Wristlet",
+        "description": "Short lace bridal gloves, wrist length, scalloped edges",
+        "image_url": "webp/gloves/1035.webp",
+        "thumbnail_url": "webp/gloves/1035_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "lace", "short", "delicate"]
+      },
+      {
+        "id": 1036,
+        "category_id": "gloves",
+        "name": "Fingerless Satin",
+        "description": "Fingerless satin bridal gloves, forearm length, minimalist style",
+        "image_url": "webp/gloves/1036.webp",
+        "thumbnail_url": "webp/gloves/1036_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "satin", "fingerless", "modern"]
+      },
+      {
+        "id": 1037,
+        "category_id": "gloves",
+        "name": "Embroidered Lace",
+        "description": "Long embroidered lace bridal gloves, elbow length, intricate floral design",
+        "image_url": "webp/gloves/1037.webp",
+        "thumbnail_url": "webp/gloves/1037_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "lace", "embroidered", "detailed"]
+      },
+      {
+        "id": 1038,
+        "category_id": "gloves",
+        "name": "Pearl Satin Gloves",
+        "description": "Full-length satin bridal gloves, wrist to elbow, pearl and bead embellishments",
+        "image_url": "webp/gloves/1038.webp",
+        "thumbnail_url": "webp/gloves/1038_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "satin", "pearl", "embellished"]
+      },
+      {
+        "id": 1039,
+        "category_id": "gloves",
+        "name": "Classic Short Satin",
+        "description": "Short bridal gloves, wrist length, smooth satin finish",
+        "image_url": "webp/gloves/1039.webp",
+        "thumbnail_url": "webp/gloves/1039_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["gloves", "satin", "short", "minimal"]
+      },
+      {
+        "id": 1040,
+        "category_id": "veil",
+        "name": "Cathedral Lace Veil",
+        "description": "Cathedral length veil, flowing tulle with lace edge trim",
+        "image_url": "webp/veils/1040.webp",
+        "thumbnail_url": "webp/veils/1040_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "cathedral", "lace-edge", "long"]
+      },
+      {
+        "id": 1041,
+        "category_id": "veil",
+        "name": "Pearl Shoulder Veil",
+        "description": "Shoulder length veil, delicate tulle with pearl details",
+        "image_url": "webp/veils/1041.webp",
+        "thumbnail_url": "webp/veils/1041_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "shoulder-length", "pearl", "short"]
+      },
+      {
+        "id": 1042,
+        "category_id": "veil",
+        "name": "Two-Tier Fingertip",
+        "description": "Two-tier fingertip veil, soft layers cascading down, lace border",
+        "image_url": "webp/veils/1042.webp",
+        "thumbnail_url": "webp/veils/1042_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "fingertip", "two-tier", "lace"]
+      },
+      {
+        "id": 1043,
+        "category_id": "veil",
+        "name": "Lace Elbow Veil",
+        "description": "Elbow-length veil, tulle with intricate lace edging",
+        "image_url": "webp/veils/1043.webp",
+        "thumbnail_url": "webp/veils/1043_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "elbow-length", "lace", "classic"]
+      },
+      {
+        "id": 1044,
+        "category_id": "veil",
+        "name": "Layered Cathedral",
+        "description": "Cathedral length layered veil, multiple soft tulle layers with scalloped lace",
+        "image_url": "webp/veils/1044.webp",
+        "thumbnail_url": "webp/veils/1044_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "cathedral", "layered", "dramatic"]
+      },
+      {
+        "id": 1045,
+        "category_id": "veil",
+        "name": "Sheer Fingertip",
+        "description": "Fingertip length veil, sheer tulle with subtle embroidery",
+        "image_url": "webp/veils/1045.webp",
+        "thumbnail_url": "webp/veils/1045_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "fingertip", "sheer", "embroidery"]
+      },
+      {
+        "id": 1046,
+        "category_id": "veil",
+        "name": "Clean Chapel Veil",
+        "description": "Single-layer chapel veil, smooth tulle with clean edge",
+        "image_url": "webp/veils/1046.webp",
+        "thumbnail_url": "webp/veils/1046_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "chapel", "single-layer", "minimal"]
+      },
+      {
+        "id": 1047,
+        "category_id": "veil",
+        "name": "Mantilla Lace Veil",
+        "description": "Mantilla-style veil, lace overlay with scalloped edge",
+        "image_url": "webp/veils/1047.webp",
+        "thumbnail_url": "webp/veils/1047_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "mantilla", "lace", "traditional"]
+      },
+      {
+        "id": 1048,
+        "category_id": "veil",
+        "name": "Minimal Shoulder Veil",
+        "description": "Shoulder length veil, light tulle with minimal lace trim",
+        "image_url": "webp/veils/1048.webp",
+        "thumbnail_url": "webp/veils/1048_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "shoulder-length", "simple", "light"]
+      },
+      {
+        "id": 1049,
+        "category_id": "veil",
+        "name": "Flowing Chapel Veil",
+        "description": "Chapel length veil, flowing soft tulle",
+        "image_url": "webp/veils/1049.webp",
+        "thumbnail_url": "webp/veils/1049_thumb.webp",
+        "overlay_image": "none",
+        "tags": ["veil", "chapel", "soft", "flowing"]
+      }
   ]
 }
 
