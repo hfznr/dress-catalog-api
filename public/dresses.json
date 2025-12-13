@@ -33,7 +33,25 @@
       "name": "Gloves",
       "icon": "🧤",
       "display_order": 5
-    }
+    },
+        {
+          "id": "shoes",
+          "name": "Shoes",
+          "icon": "👠",
+          "display_order": 6
+        },
+        {
+          "id": "flowers",
+          "name": "Flowers",
+          "icon": "💐",
+          "display_order": 7
+        },
+        {
+          "id": "jewelry",
+          "name": "Jewelry",
+          "icon": "💎",
+          "display_order": 8
+        }
   ],
   "options": [
     {
@@ -1135,7 +1153,157 @@
         "thumbnail_url": "webp/veils/1049_thumb.webp",
         "overlay_image": "none",
         "tags": ["veil", "chapel", "soft", "flowing"]
-      }
+      },
+        {
+          "id": 1050,
+          "category_id": "shoes",
+          "name": "Classic White Pumps",
+          "description": "Timeless white satin pumps with a high heel and pointed toe",
+          "image_url": "webp/shoes/1.webp",
+          "thumbnail_url": "webp/shoes/1_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["heels", "classic", "satin", "white"]
+        },
+        {
+          "id": 1051,
+          "category_id": "shoes",
+          "name": "Strappy Crystal Sandals",
+          "description": "Delicate strappy sandals with crystal embellishments and a stiletto heel",
+          "image_url": "webp/shoes/2.webp",
+          "thumbnail_url": "webp/shoes/2_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["sandals", "strappy", "crystal", "glamorous"]
+        },
+        {
+          "id": 1052,
+          "category_id": "shoes",
+          "name": "Lace Ballet Flats",
+          "description": "Comfortable and romantic lace ballet flats with a subtle bow",
+          "image_url": "webp/shoes/3.webp",
+          "thumbnail_url": "webp/shoes/3_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["flats", "lace", "comfortable", "romantic"]
+        },
+        {
+          "id": 1053,
+          "category_id": "shoes",
+          "name": "Modern Block Heels",
+          "description": "Stable block heels with a modern ankle strap and minimal design",
+          "image_url": "webp/shoes/4.webp",
+          "thumbnail_url": "webp/shoes/4_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["block-heel", "modern", "stable", "ankle-strap"]
+        },
+        {
+          "id": 1054,
+          "category_id": "shoes",
+          "name": "Sparkle Sneakers",
+          "description": "Fun and comfortable bridal sneakers covered in silver glitter",
+          "image_url": "webp/shoes/5.webp",
+          "thumbnail_url": "webp/shoes/5_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["sneakers", "sparkle", "casual", "fun"]
+        },
+        {
+          "id": 1055,
+          "category_id": "flowers",
+          "name": "Classic White Roses",
+          "description": "A round, elegant bouquet composed entirely of pristine white roses",
+          "image_url": "webp/flowers/1.webp",
+          "thumbnail_url": "webp/flowers/1_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["roses", "white", "classic", "round"]
+        },
+        {
+          "id": 1056,
+          "category_id": "flowers",
+          "name": "Rustic Wildflowers",
+          "description": "A loose, organic arrangement of colorful wildflowers and greenery",
+          "image_url": "webp/flowers/2.webp",
+          "thumbnail_url": "webp/flowers/2_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["wildflowers", "rustic", "boho", "colorful"]
+        },
+        {
+          "id": 1057,
+          "category_id": "flowers",
+          "name": "Soft Pink Peonies",
+          "description": "Lush pink peonies arranged in a soft, romantic bouquet",
+          "image_url": "webp/flowers/3.webp",
+          "thumbnail_url": "webp/flowers/3_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["peonies", "pink", "romantic", "lush"]
+        },
+        {
+          "id": 1058,
+          "category_id": "flowers",
+          "name": "Cascading Orchids",
+          "description": "A dramatic cascading bouquet featuring elegant white orchids",
+          "image_url": "webp/flowers/4.webp",
+          "thumbnail_url": "webp/flowers/4_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["orchids", "cascading", "dramatic", "elegant"]
+        },
+        {
+          "id": 1059,
+          "category_id": "flowers",
+          "name": "Modern Greenery",
+          "description": "A minimalist bouquet focusing on eucalyptus, ferns, and white accents",
+          "image_url": "webp/flowers/5.webp",
+          "thumbnail_url": "webp/flowers/5_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["greenery", "minimalist", "modern", "fresh"]
+        },
+        {
+          "id": 1060,
+          "category_id": "jewelry",
+          "name": "Diamond Drop Necklace",
+          "description": "Elegant diamond drop necklace on a delicate thin chain",
+          "image_url": "webp/jewelry/1.webp",
+          "thumbnail_url": "webp/jewelry/1_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["necklace", "diamond", "elegant", "drop"]
+        },
+        {
+          "id": 1061,
+          "category_id": "jewelry",
+          "name": "Pearl Drop Earrings",
+          "description": "Classic pearl drop earrings with subtle silver accents",
+          "image_url": "webp/jewelry/2.webp",
+          "thumbnail_url": "webp/jewelry/2_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["earrings", "pearl", "classic", "drop"]
+        },
+        {
+          "id": 1062,
+          "category_id": "jewelry",
+          "name": "Crystal Bridal Tiara",
+          "description": "Sparkling crystal tiara for a princess-inspired bridal look",
+          "image_url": "webp/jewelry/3.webp",
+          "thumbnail_url": "webp/jewelry/3_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["tiara", "crystal", "princess", "hair-accessory"]
+        },
+        {
+          "id": 1063,
+          "category_id": "jewelry",
+          "name": "Silver Tennis Bracelet",
+          "description": "A delicate silver tennis bracelet featuring continuous cubic zirconia",
+          "image_url": "webp/jewelry/4.webp",
+          "thumbnail_url": "webp/jewelry/4_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["bracelet", "silver", "delicate", "sparkle"]
+        },
+        {
+          "id": 1064,
+          "category_id": "jewelry",
+          "name": "Pearl Choker",
+          "description": "A vintage-inspired multi-strand pearl choker necklace",
+          "image_url": "webp/jewelry/5.webp",
+          "thumbnail_url": "webp/jewelry/5_thumb.webp",
+          "overlay_image": "none",
+          "tags": ["choker", "pearl", "vintage", "statement"]
+        }
   ]
 }
 
