@@ -11,7 +11,7 @@
     },
     {
       "id": "top",
-      "name": "Tops & Necklines",
+      "name": "Tops",
       "icon": "👗",
       "display_order": 2
     },
@@ -38,620 +38,668 @@
       "name": "Shoes",
       "icon": "👠",
       "display_order": 6
-    },
-    {
-      "id": "flowers",
-      "name": "Flowers",
-      "icon": "💐",
-      "display_order": 7
-    },
-    {
-      "id": "jewelry",
-      "name": "Jewelry",
-      "icon": "💎",
-      "display_order": 8
     }
   ],
   "options": [
     {
       "id": 1000,
       "category_id": "top",
-      "name": "Strapless Crop Top",
-      "description": "A strapless wedding dress crop top bodice, sweetheart neckline, lace appliques, beaded details, ending just below the bust",
-      "image_url": "webp/busts/1000.webp",
-      "thumbnail_url": "webp/busts/1000_thumb.webp",
+      "name": "none",
+      "asset_generation_prompt": "A strapless wedding dress crop top bodice, sweetheart neckline, lace appliques, beaded details, ending just below the bust and well above the natural waistline--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
+      "description": "A strapless wedding dress crop top bodice, sweetheart neckline, lace appliques, beaded details, ending just below the bust and well above the natural waistline",
+      "image_url": "webp/top/1000.webp",
+      "thumbnail_url": "webp/top/1000_thumb.webp",
       "overlay_image": "none",
-      "tags": ["strapless", "crop-top", "lace", "beaded"]
+      "tags": "none"
     },
     {
       "id": 1001,
       "category_id": "top",
-      "name": "Sweetheart Lace",
+      "name": "none",
+      "asset_generation_prompt": "A strapless wedding dress, sweetheart neckline, lace appliques, beaded details--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A strapless wedding dress, sweetheart neckline, lace appliques, beaded details",
-      "image_url": "webp/busts/1001.webp",
-      "thumbnail_url": "webp/busts/1001_thumb.webp",
+      "image_url": "webp/top/1001.webp",
+      "thumbnail_url": "webp/top/1001_thumb.webp",
       "overlay_image": "none",
-      "tags": ["strapless", "sweetheart", "lace", "classic"]
+      "tags": "none"
     },
     {
       "id": 1002,
       "category_id": "top",
-      "name": "Chiffon V-Neck",
+      "name": "none",
+      "asset_generation_prompt": "A spaghetti strap wedding dress bodice, V-neckline, chiffon overlay, delicate lace trim--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A spaghetti strap wedding dress bodice, V-neckline, chiffon overlay, delicate lace trim",
-      "image_url": "webp/busts/1002.webp",
-      "thumbnail_url": "webp/busts/1002_thumb.webp",
+      "image_url": "webp/top/1002.webp",
+      "thumbnail_url": "webp/top/1002_thumb.webp",
       "overlay_image": "none",
-      "tags": ["spaghetti-strap", "v-neck", "chiffon", "boho"]
+      "tags": "none"
     },
     {
       "id": 1003,
       "category_id": "top",
-      "name": "Floral Off-Shoulder",
+      "name": "none",
+      "asset_generation_prompt": "An off-shoulder wedding dress bodice, sweetheart neckline, floral lace details, corset-style back--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "An off-shoulder wedding dress bodice, sweetheart neckline, floral lace details, corset-style back",
-      "image_url": "webp/busts/1003.webp",
-      "thumbnail_url": "webp/busts/1003_thumb.webp",
+      "image_url": "webp/top/1003.webp",
+      "thumbnail_url": "webp/top/1003_thumb.webp",
       "overlay_image": "none",
-      "tags": ["off-shoulder", "floral", "corset", "romantic"]
+      "tags": "none"
     },
     {
       "id": 1004,
       "category_id": "top",
-      "name": "Crystal Halter",
+      "name": "none",
+      "asset_generation_prompt": "A halter-neck wedding dress bodice, keyhole front, satin texture, crystal embellishments--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A halter-neck wedding dress bodice, keyhole front, satin texture, crystal embellishments",
-      "image_url": "webp/busts/1004.webp",
-      "thumbnail_url": "webp/busts/1004_thumb.webp",
+      "image_url": "webp/top/1004.webp",
+      "thumbnail_url": "webp/top/1004_thumb.webp",
       "overlay_image": "none",
-      "tags": ["halter", "satin", "crystal", "glamorous"]
+      "tags": "none"
     },
     {
       "id": 1005,
       "category_id": "top",
-      "name": "Illusion High-Neck",
+      "name": "none",
+      "asset_generation_prompt": "A high-neck wedding dress bodice, sheer lace overlay, long illusion sleeves, pearl details--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A high-neck wedding dress bodice, sheer lace overlay, long illusion sleeves, pearl details",
-      "image_url": "webp/busts/1005.webp",
-      "thumbnail_url": "webp/busts/1005_thumb.webp",
+      "image_url": "webp/top/1005.webp",
+      "thumbnail_url": "webp/top/1005_thumb.webp",
       "overlay_image": "none",
-      "tags": ["high-neck", "illusion", "long-sleeve", "vintage"]
+      "tags": "none"
     },
     {
       "id": 1006,
       "category_id": "top",
-      "name": "Ruched One-Shoulder",
+      "name": "none",
+      "asset_generation_prompt": "A one-shoulder wedding dress bodice, ruched satin fabric, asymmetric neckline, jeweled strap--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A one-shoulder wedding dress bodice, ruched satin fabric, asymmetric neckline, jeweled strap",
-      "image_url": "webp/busts/1006.webp",
-      "thumbnail_url": "webp/busts/1006_thumb.webp",
+      "image_url": "webp/top/1006.webp",
+      "thumbnail_url": "webp/top/1006_thumb.webp",
       "overlay_image": "none",
-      "tags": ["one-shoulder", "ruched", "satin", "asymmetric"]
+      "tags": "none"
     },
     {
       "id": 1007,
       "category_id": "top",
-      "name": "Crepe Square Neck",
+      "name": "none",
+      "asset_generation_prompt": "A square neckline wedding dress bodice, thick straps, matte crepe fabric, structured corset--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A square neckline wedding dress bodice, thick straps, matte crepe fabric, structured corset",
-      "image_url": "webp/busts/1007.webp",
-      "thumbnail_url": "webp/busts/1007_thumb.webp",
+      "image_url": "webp/top/1007.webp",
+      "thumbnail_url": "webp/top/1007_thumb.webp",
       "overlay_image": "none",
-      "tags": ["square-neck", "crepe", "corset", "structured"]
+      "tags": "none"
     },
     {
       "id": 1008,
       "category_id": "top",
-      "name": "Illusion Bateau",
+      "name": "none",
+      "asset_generation_prompt": "A bateau neckline wedding dress bodice, lace illusion top, sleeveless, beaded waistline--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A bateau neckline wedding dress bodice, lace illusion top, sleeveless, beaded waistline",
-      "image_url": "webp/busts/1008.webp",
-      "thumbnail_url": "webp/busts/1008_thumb.webp",
+      "image_url": "webp/top/1008.webp",
+      "thumbnail_url": "webp/top/1008_thumb.webp",
       "overlay_image": "none",
-      "tags": ["bateau", "illusion", "beaded", "elegant"]
+      "tags": "none"
     },
     {
       "id": 1009,
       "category_id": "top",
-      "name": "Embroidered Scoop",
+      "name": "none",
+      "asset_generation_prompt": "A scoop neckline wedding dress bodice, tulle overlay, floral embroidery, soft satin lining--on human body, bodice only, cropped at waist no skirt visible, gradient white background, front view, centered.",
       "description": "A scoop neckline wedding dress bodice, tulle overlay, floral embroidery, soft satin lining",
-      "image_url": "webp/busts/1009.webp",
-      "thumbnail_url": "webp/busts/1009_thumb.webp",
+      "image_url": "webp/top/1009.webp",
+      "thumbnail_url": "webp/top/1009_thumb.webp",
       "overlay_image": "none",
-      "tags": ["scoop-neck", "floral", "tulle", "romantic"]
+      "tags": "none"
     },
     {
       "id": 1010,
       "category_id": "skirt",
-      "name": "Tulle Ball Gown",
+      "name": "none",
+      "asset_generation_prompt": "A ball gown wedding dress skirt, full volume, multiple tulle layers--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A ball gown wedding dress skirt, full volume, multiple tulle layers",
-      "image_url": "webp/skirts/1010.webp",
-      "thumbnail_url": "webp/skirts/1010_thumb.webp",
+      "image_url": "webp/skirt/1010.webp",
+      "thumbnail_url": "webp/skirt/1010_thumb.webp",
       "overlay_image": "none",
-      "tags": ["ball-gown", "tulle", "volume", "princess"]
+      "tags": "none"
     },
     {
       "id": 1011,
       "category_id": "skirt",
-      "name": "Satin A-Line",
+      "name": "none",
+      "asset_generation_prompt": "An A-line wedding dress skirt, smooth satin fabric, gentle flare--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "An A-line wedding dress skirt, smooth satin fabric, gentle flare",
-      "image_url": "webp/skirts/1011.webp",
-      "thumbnail_url": "webp/skirts/1011_thumb.webp",
+      "image_url": "webp/skirt/1011.webp",
+      "thumbnail_url": "webp/skirt/1011_thumb.webp",
       "overlay_image": "none",
-      "tags": ["a-line", "satin", "classic", "simple"]
+      "tags": "none"
     },
     {
       "id": 1012,
       "category_id": "skirt",
-      "name": "Fitted Mermaid",
+      "name": "none",
+      "asset_generation_prompt": "A mermaid wedding dress skirt, fitted through hips, flaring at knees--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A mermaid wedding dress skirt, fitted through hips, flaring at knees",
-      "image_url": "webp/skirts/1012.webp",
-      "thumbnail_url": "webp/skirts/1012_thumb.webp",
+      "image_url": "webp/skirt/1012.webp",
+      "thumbnail_url": "webp/skirt/1012_thumb.webp",
       "overlay_image": "none",
-      "tags": ["mermaid", "fitted", "flare", "dramatic"]
+      "tags": "none"
     },
     {
       "id": 1013,
       "category_id": "skirt",
-      "name": "Structured Trumpet",
+      "name": "none",
+      "asset_generation_prompt": "A trumpet wedding dress skirt, slightly flared below mid-thigh, structured satin fabric--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A trumpet wedding dress skirt, slightly flared below mid-thigh, structured satin fabric",
-      "image_url": "webp/skirts/1013.webp",
-      "thumbnail_url": "webp/skirts/1013_thumb.webp",
+      "image_url": "webp/skirt/1013.webp",
+      "thumbnail_url": "webp/skirt/1013_thumb.webp",
       "overlay_image": "none",
-      "tags": ["trumpet", "satin", "structured", "elegant"]
+      "tags": "none"
     },
     {
       "id": 1014,
       "category_id": "skirt",
-      "name": "Minimal Sheath",
+      "name": "none",
+      "asset_generation_prompt": "A sheath wedding dress skirt, slim silhouette, minimal crepe fabric, pure white background--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A sheath wedding dress skirt, slim silhouette, minimal crepe fabric, pure white background",
-      "image_url": "webp/skirts/1014.webp",
-      "thumbnail_url": "webp/skirts/1014_thumb.webp",
+      "image_url": "webp/skirt/1014.webp",
+      "thumbnail_url": "webp/skirt/1014_thumb.webp",
       "overlay_image": "none",
-      "tags": ["sheath", "crepe", "slim", "modern"]
+      "tags": "none"
     },
     {
       "id": 1015,
       "category_id": "skirt",
-      "name": "Chiffon Empire",
+      "name": "none",
+      "asset_generation_prompt": "An empire wedding dress skirt, flowing chiffon fabric, light drape--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "An empire wedding dress skirt, flowing chiffon fabric, light drape",
-      "image_url": "webp/skirts/1015.webp",
-      "thumbnail_url": "webp/skirts/1015_thumb.webp",
+      "image_url": "webp/skirt/1015.webp",
+      "thumbnail_url": "webp/skirt/1015_thumb.webp",
       "overlay_image": "none",
-      "tags": ["empire", "chiffon", "flowing", "boho"]
+      "tags": "none"
     },
     {
       "id": 1016,
       "category_id": "skirt",
-      "name": "Fit-and-Flare",
+      "name": "none",
+      "asset_generation_prompt": "A fit-and-flare wedding dress skirt, body-hugging upper part, flared hemline--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A fit-and-flare wedding dress skirt, body-hugging upper part, flared hemline",
-      "image_url": "webp/skirts/1016.webp",
-      "thumbnail_url": "webp/skirts/1016_thumb.webp",
+      "image_url": "webp/skirt/1016.webp",
+      "thumbnail_url": "webp/skirt/1016_thumb.webp",
       "overlay_image": "none",
-      "tags": ["fit-and-flare", "fitted", "modern", "chic"]
+      "tags": "none"
     },
     {
       "id": 1017,
       "category_id": "skirt",
-      "name": "Tulle Tea-Length",
+      "name": "none",
+      "asset_generation_prompt": "A tea-length wedding dress skirt, mid-calf length, soft tulle layers--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A tea-length wedding dress skirt, mid-calf length, soft tulle layers",
-      "image_url": "webp/skirts/1017.webp",
-      "thumbnail_url": "webp/skirts/1017_thumb.webp",
+      "image_url": "webp/skirt/1017.webp",
+      "thumbnail_url": "webp/skirt/1017_thumb.webp",
       "overlay_image": "none",
-      "tags": ["tea-length", "tulle", "vintage", "short"]
+      "tags": "none"
     },
     {
       "id": 1018,
       "category_id": "skirt",
-      "name": "Satin Mini",
+      "name": "none",
+      "asset_generation_prompt": "A mini wedding dress skirt, short above knee length, satin fabric--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A mini wedding dress skirt, short above knee length, satin fabric",
-      "image_url": "webp/skirts/1018.webp",
-      "thumbnail_url": "webp/skirts/1018_thumb.webp",
+      "image_url": "webp/skirt/1018.webp",
+      "thumbnail_url": "webp/skirt/1018_thumb.webp",
       "overlay_image": "none",
-      "tags": ["mini", "satin", "short", "party"]
+      "tags": "none"
     },
     {
       "id": 1019,
       "category_id": "skirt",
-      "name": "Tulle High-Low",
+      "name": "none",
+      "asset_generation_prompt": "A high-low wedding dress skirt, short front and long back hem, layered tulle--on human model, lower body only, starting from waist, no bodice, gradient white background, front view, centered.",
       "description": "A high-low wedding dress skirt, short front and long back hem, layered tulle",
-      "image_url": "webp/skirts/1019.webp",
-      "thumbnail_url": "webp/skirts/1019_thumb.webp",
+      "image_url": "webp/skirt/1019.webp",
+      "thumbnail_url": "webp/skirt/1019_thumb.webp",
       "overlay_image": "none",
-      "tags": ["high-low", "tulle", "asymmetric", "modern"]
+      "tags": "none"
     },
     {
       "id": 1020,
       "category_id": "hair",
-      "name": "Low Bun Updo",
+      "name": "none",
+      "asset_generation_prompt": "Low Bun Updo, elegant bridal updo, low bun with loose curls, brown hair--gradient white background, on human model, face not visible, centered.",
       "description": "Low Bun Updo, elegant bridal updo, low bun with loose curls, brown hair",
       "image_url": "webp/hair/1020.webp",
       "thumbnail_url": "webp/hair/1020_thumb.webp",
       "overlay_image": "none",
-      "tags": ["updo", "low-bun", "elegant", "curls"]
+      "tags": "none"
     },
     {
       "id": 1021,
       "category_id": "hair",
-      "name": "Loose Waves",
+      "name": "none",
+      "asset_generation_prompt": "Loose Waves, half-up half-down style with loose waves, golden blonde hair--gradient white background, on human model, face not visible, centered.",
       "description": "Loose Waves, half-up half-down style with loose waves, golden blonde hair",
       "image_url": "webp/hair/1021.webp",
       "thumbnail_url": "webp/hair/1021_thumb.webp",
       "overlay_image": "none",
-      "tags": ["half-up", "waves", "romantic", "loose"]
+      "tags": "none"
     },
     {
       "id": 1022,
       "category_id": "hair",
-      "name": "Braided Crown",
+      "name": "none",
+      "asset_generation_prompt": "Braided Crown, romantic crown braid with clean texture, medium brown hair--gradient white background, on human model, face not visible, centered.",
       "description": "Braided Crown, romantic crown braid with clean texture, medium brown hair",
       "image_url": "webp/hair/1022.webp",
       "thumbnail_url": "webp/hair/1022_thumb.webp",
       "overlay_image": "none",
-      "tags": ["braid", "crown", "boho", "textured"]
+      "tags": "none"
     },
     {
       "id": 1023,
       "category_id": "hair",
-      "name": "Classic Chignon",
+      "name": "none",
+      "asset_generation_prompt": "Classic Chignon, smooth low chignon, dark brown hair--gradient white background, on human model, face not visible, centered.",
       "description": "Classic Chignon, smooth low chignon, dark brown hair",
       "image_url": "webp/hair/1023.webp",
       "thumbnail_url": "webp/hair/1023_thumb.webp",
       "overlay_image": "none",
-      "tags": ["chignon", "classic", "smooth", "formal"]
+      "tags": "none"
     },
     {
       "id": 1024,
       "category_id": "hair",
-      "name": "Messy Bun",
+      "name": "none",
+      "asset_generation_prompt": "Messy Bun, soft messy bun with loose romantic curls, light brunette hair--gradient white background, on human model, face not visible, centered.",
       "description": "Messy Bun, soft messy bun with loose romantic curls, light brunette hair",
       "image_url": "webp/hair/1024.webp",
       "thumbnail_url": "webp/hair/1024_thumb.webp",
       "overlay_image": "none",
-      "tags": ["messy-bun", "casual", "romantic", "soft"]
+      "tags": "none"
     },
     {
       "id": 1025,
       "category_id": "hair",
-      "name": "Sleek Bun",
+      "name": "none",
+      "asset_generation_prompt": "Sleek Bun, sleek center-parted bun, glossy black hair--gradient white background, on human model, face not visible, centered.",
       "description": "Sleek Bun, sleek center-parted bun, glossy black hair",
       "image_url": "webp/hair/1025.webp",
       "thumbnail_url": "webp/hair/1025_thumb.webp",
       "overlay_image": "none",
-      "tags": ["sleek", "bun", "modern", "minimal"]
+      "tags": "none"
     },
     {
       "id": 1026,
       "category_id": "hair",
-      "name": "Full Down Waves",
+      "name": "none",
+      "asset_generation_prompt": "Full Down Waves, long hairstyle with full loose waves, platinum blonde hair--gradient white background, on human model, face not visible, centered.",
       "description": "Full Down Waves, long hairstyle with full loose waves, platinum blonde hair",
       "image_url": "webp/hair/1026.webp",
       "thumbnail_url": "webp/hair/1026_thumb.webp",
       "overlay_image": "none",
-      "tags": ["down", "waves", "glamorous", "long"]
+      "tags": "none"
     },
     {
       "id": 1027,
       "category_id": "hair",
-      "name": "High Ponytail",
+      "name": "none",
+      "asset_generation_prompt": "High Ponytail, high ponytail with smooth base and soft curls at ends, chestnut brown hair--gradient white background, on human model, face not visible, centered.",
       "description": "High Ponytail, high ponytail with smooth base and soft curls at ends, chestnut brown hair",
       "image_url": "webp/hair/1027.webp",
       "thumbnail_url": "webp/hair/1027_thumb.webp",
       "overlay_image": "none",
-      "tags": ["ponytail", "high", "modern", "chic"]
+      "tags": "none"
     },
     {
       "id": 1028,
       "category_id": "hair",
-      "name": "Half Fishtail Braid",
+      "name": "none",
+      "asset_generation_prompt": "Half Braid, half-up half-down fishtail braid with flowing ends, ash blonde hair--gradient white background, on human model, face not visible, centered.",
       "description": "Half Braid, half-up half-down fishtail braid with flowing ends, ash blonde hair",
       "image_url": "webp/hair/1028.webp",
       "thumbnail_url": "webp/hair/1028_thumb.webp",
       "overlay_image": "none",
-      "tags": ["braid", "fishtail", "half-up", "boho"]
+      "tags": "none"
     },
     {
       "id": 1029,
       "category_id": "hair",
-      "name": "Loose Side Braid",
+      "name": "none",
+      "asset_generation_prompt": "Loose Braid, relaxed loose braid with pulled-out strands, blond hair--gradient white background, on human model, face not visible, centered.",
       "description": "Loose Braid, relaxed loose braid with pulled-out strands, blond hair",
       "image_url": "webp/hair/1029.webp",
       "thumbnail_url": "webp/hair/1029_thumb.webp",
       "overlay_image": "none",
-      "tags": ["braid", "loose", "relaxed", "rustic"]
+      "tags": "none"
     },
     {
       "id": 1030,
       "category_id": "gloves",
-      "name": "Long Lace Gloves",
+      "name": "none",
+      "asset_generation_prompt": "Long lace bridal gloves, elbow length, delicate floral pattern--on human model hands, only hands, gradient white background, centered.",
       "description": "Long lace bridal gloves, elbow length, delicate floral pattern",
       "image_url": "webp/gloves/1030.webp",
       "thumbnail_url": "webp/gloves/1030_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "lace", "long", "floral"]
+      "tags": "none"
     },
     {
       "id": 1031,
       "category_id": "gloves",
-      "name": "Short Satin Gloves",
+      "name": "none",
+      "asset_generation_prompt": "Short white satin bridal gloves, wrist length, pearl button detail--on human model hands, only hands, gradient white background, centered.",
       "description": "Short white satin bridal gloves, wrist length, pearl button detail",
       "image_url": "webp/gloves/1031.webp",
       "thumbnail_url": "webp/gloves/1031_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "satin", "short", "pearl"]
+      "tags": "none"
     },
     {
       "id": 1032,
       "category_id": "gloves",
-      "name": "Fingerless Lace Gloves",
+      "name": "none",
+      "asset_generation_prompt": "Fingerless lace bridal gloves, forearm length, vintage style, delicate embroidery--on human model hands, only hands, gradient white background, centered.",
       "description": "Fingerless lace bridal gloves, forearm length, vintage style, delicate embroidery",
       "image_url": "webp/gloves/1032.webp",
       "thumbnail_url": "webp/gloves/1032_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "fingerless", "lace", "vintage"]
+      "tags": "none"
     },
     {
       "id": 1033,
       "category_id": "gloves",
-      "name": "Long Satin Gloves",
+      "name": "none",
+      "asset_generation_prompt": "Long satin bridal gloves, full arm length, smooth texture--on human model hands, only hands, gradient white background, centered.",
       "description": "Long satin bridal gloves, full arm length, smooth texture",
       "image_url": "webp/gloves/1033.webp",
       "thumbnail_url": "webp/gloves/1033_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "satin", "long", "classic"]
+      "tags": "none"
     },
     {
       "id": 1034,
       "category_id": "gloves",
-      "name": "Elbow Lace & Tulle",
+      "name": "none",
+      "asset_generation_prompt": "Elbow-length lace and tulle bridal gloves, floral motifs--on human model hands, only hands, gradient white background, centered.",
       "description": "Elbow-length lace and tulle bridal gloves, floral motifs",
       "image_url": "webp/gloves/1034.webp",
       "thumbnail_url": "webp/gloves/1034_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "tulle", "lace", "elbow-length"]
+      "tags": "none"
     },
     {
       "id": 1035,
       "category_id": "gloves",
-      "name": "Short Lace Wristlet",
+      "name": "none",
+      "asset_generation_prompt": "Short lace bridal gloves, wrist length, scalloped edges--on human model hands, only hands, gradient white background, centered.",
       "description": "Short lace bridal gloves, wrist length, scalloped edges",
       "image_url": "webp/gloves/1035.webp",
       "thumbnail_url": "webp/gloves/1035_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "lace", "short", "delicate"]
+      "tags": "none"
     },
     {
       "id": 1036,
       "category_id": "gloves",
-      "name": "Fingerless Satin",
+      "name": "none",
+      "asset_generation_prompt": "Fingerless satin bridal gloves, forearm length, minimalist style--on human model hands, only hands, gradient white background, centered.",
       "description": "Fingerless satin bridal gloves, forearm length, minimalist style",
       "image_url": "webp/gloves/1036.webp",
       "thumbnail_url": "webp/gloves/1036_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "satin", "fingerless", "modern"]
+      "tags": "none"
     },
     {
       "id": 1037,
       "category_id": "gloves",
-      "name": "Embroidered Lace",
+      "name": "none",
+      "asset_generation_prompt": "Long embroidered lace bridal gloves, elbow length, intricate floral design--on human model hands, only hands, gradient white background, centered.",
       "description": "Long embroidered lace bridal gloves, elbow length, intricate floral design",
       "image_url": "webp/gloves/1037.webp",
       "thumbnail_url": "webp/gloves/1037_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "lace", "embroidered", "detailed"]
+      "tags": "none"
     },
     {
       "id": 1038,
       "category_id": "gloves",
-      "name": "Pearl Satin Gloves",
+      "name": "none",
+      "asset_generation_prompt": "Full-length satin bridal gloves, wrist to elbow, pearl and bead embellishments--on human model hands, only hands, gradient white background, centered.",
       "description": "Full-length satin bridal gloves, wrist to elbow, pearl and bead embellishments",
       "image_url": "webp/gloves/1038.webp",
       "thumbnail_url": "webp/gloves/1038_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "satin", "pearl", "embellished"]
+      "tags": "none"
     },
     {
       "id": 1039,
       "category_id": "gloves",
-      "name": "Classic Short Satin",
+      "name": "none",
+      "asset_generation_prompt": "Short bridal gloves, wrist length, smooth satin finish--on human model hands, only hands, gradient white background, centered.",
       "description": "Short bridal gloves, wrist length, smooth satin finish",
       "image_url": "webp/gloves/1039.webp",
       "thumbnail_url": "webp/gloves/1039_thumb.webp",
       "overlay_image": "none",
-      "tags": ["gloves", "satin", "short", "minimal"]
+      "tags": "none"
     },
     {
       "id": 1040,
       "category_id": "veil",
-      "name": "Cathedral Lace Veil",
+      "name": "none",
+      "asset_generation_prompt": "Cathedral length veil, flowing tulle with lace edge trim--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Cathedral length veil, flowing tulle with lace edge trim",
-      "image_url": "webp/veils/1040.webp",
-      "thumbnail_url": "webp/veils/1040_thumb.webp",
+      "image_url": "webp/veil/1040.webp",
+      "thumbnail_url": "webp/veil/1040_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "cathedral", "lace-edge", "long"]
+      "tags": "none"
     },
     {
       "id": 1041,
       "category_id": "veil",
-      "name": "Pearl Shoulder Veil",
+      "name": "none",
+      "asset_generation_prompt": "Shoulder length veil, delicate tulle with pearl details--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Shoulder length veil, delicate tulle with pearl details",
-      "image_url": "webp/veils/1041.webp",
-      "thumbnail_url": "webp/veils/1041_thumb.webp",
+      "image_url": "webp/veil/1041.webp",
+      "thumbnail_url": "webp/veil/1041_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "shoulder-length", "pearl", "short"]
+      "tags": "none"
     },
     {
       "id": 1042,
       "category_id": "veil",
-      "name": "Two-Tier Fingertip",
+      "name": "none",
+      "asset_generation_prompt": "Two-tier fingertip veil, soft layers cascading down, lace border--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Two-tier fingertip veil, soft layers cascading down, lace border",
-      "image_url": "webp/veils/1042.webp",
-      "thumbnail_url": "webp/veils/1042_thumb.webp",
+      "image_url": "webp/veil/1042.webp",
+      "thumbnail_url": "webp/veil/1042_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "fingertip", "two-tier", "lace"]
+      "tags": "none"
     },
     {
       "id": 1043,
       "category_id": "veil",
-      "name": "Lace Elbow Veil",
+      "name": "none",
+      "asset_generation_prompt": "Elbow-length veil, tulle with intricate lace edging--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Elbow-length veil, tulle with intricate lace edging",
-      "image_url": "webp/veils/1043.webp",
-      "thumbnail_url": "webp/veils/1043_thumb.webp",
+      "image_url": "webp/veil/1043.webp",
+      "thumbnail_url": "webp/veil/1043_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "elbow-length", "lace", "classic"]
+      "tags": "none"
     },
     {
       "id": 1044,
       "category_id": "veil",
-      "name": "Layered Cathedral",
+      "name": "none",
+      "asset_generation_prompt": "Cathedral length layered veil, multiple soft tulle layers with scalloped lace--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Cathedral length layered veil, multiple soft tulle layers with scalloped lace",
-      "image_url": "webp/veils/1044.webp",
-      "thumbnail_url": "webp/veils/1044_thumb.webp",
+      "image_url": "webp/veil/1044.webp",
+      "thumbnail_url": "webp/veil/1044_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "cathedral", "layered", "dramatic"]
+      "tags": "none"
     },
     {
       "id": 1045,
       "category_id": "veil",
-      "name": "Sheer Fingertip",
+      "name": "none",
+      "asset_generation_prompt": "Fingertip length veil, sheer tulle with subtle embroidery--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Fingertip length veil, sheer tulle with subtle embroidery",
-      "image_url": "webp/veils/1045.webp",
-      "thumbnail_url": "webp/veils/1045_thumb.webp",
+      "image_url": "webp/veil/1045.webp",
+      "thumbnail_url": "webp/veil/1045_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "fingertip", "sheer", "embroidery"]
+      "tags": "none"
     },
     {
       "id": 1046,
       "category_id": "veil",
-      "name": "Clean Chapel Veil",
+      "name": "none",
+      "asset_generation_prompt": "Single-layer chapel veil, smooth tulle with clean edge--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Single-layer chapel veil, smooth tulle with clean edge",
-      "image_url": "webp/veils/1046.webp",
-      "thumbnail_url": "webp/veils/1046_thumb.webp",
+      "image_url": "webp/veil/1046.webp",
+      "thumbnail_url": "webp/veil/1046_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "chapel", "single-layer", "minimal"]
+      "tags": "none"
     },
     {
       "id": 1047,
       "category_id": "veil",
-      "name": "Mantilla Lace Veil",
+      "name": "none",
+      "asset_generation_prompt": "Mantilla-style veil, lace overlay with scalloped edge--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Mantilla-style veil, lace overlay with scalloped edge",
-      "image_url": "webp/veils/1047.webp",
-      "thumbnail_url": "webp/veils/1047_thumb.webp",
+      "image_url": "webp/veil/1047.webp",
+      "thumbnail_url": "webp/veil/1047_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "mantilla", "lace", "traditional"]
+      "tags": "none"
     },
     {
       "id": 1048,
       "category_id": "veil",
-      "name": "Minimal Shoulder Veil",
+      "name": "none",
+      "asset_generation_prompt": "Shoulder length veil, light tulle with minimal lace trim--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Shoulder length veil, light tulle with minimal lace trim",
-      "image_url": "webp/veils/1048.webp",
-      "thumbnail_url": "webp/veils/1048_thumb.webp",
+      "image_url": "webp/veil/1048.webp",
+      "thumbnail_url": "webp/veil/1048_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "shoulder-length", "simple", "light"]
+      "tags": "none"
     },
     {
       "id": 1049,
       "category_id": "veil",
-      "name": "Flowing Chapel Veil",
+      "name": "none",
+      "asset_generation_prompt": "Chapel length veil, flowing soft tulle--on a full body human model wearing a white wedding dress, back view only, face not visible, gradient white background, centered.",
       "description": "Chapel length veil, flowing soft tulle",
-      "image_url": "webp/veils/1049.webp",
-      "thumbnail_url": "webp/veils/1049_thumb.webp",
+      "image_url": "webp/veil/1049.webp",
+      "thumbnail_url": "webp/veil/1049_thumb.webp",
       "overlay_image": "none",
-      "tags": ["veil", "chapel", "soft", "flowing"]
+      "tags": "none"
     },
     {
       "id": 1050,
       "category_id": "shoes",
-      "name": "Chantilly Lace Stilettos",
-      "description": "Hand-sewn Chantilly lace application on satin pointed-toe stilettos, high heel",
+      "name": "none",
+      "asset_generation_prompt": "CustomHand-sewn Chantilly lace application on satin pointed-toe stilettos, high heel--on a standing human model's feet only, macro shot focusing on the delicate lace and fabric texture, detailed photography, gradient white background, centered.",
+      "description": "CustomHand-sewn Chantilly lace application on satin pointed-toe stilettos, high heel",
       "image_url": "webp/shoes/1050.webp",
       "thumbnail_url": "webp/shoes/1050_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "stilettos", "lace", "satin"]
+      "tags": "none"
     },
     {
       "id": 1051,
       "category_id": "shoes",
-      "name": "Lace Ballet Flats",
+      "name": "none",
+      "asset_generation_prompt": "Delicate lace bridal ballet flats, round toe, small satin bow accent--on a standing human model's feet only, close-up view from a slight angle, natural light, gradient white background, centered.",
       "description": "Delicate lace bridal ballet flats, round toe, small satin bow accent",
       "image_url": "webp/shoes/1051.webp",
       "thumbnail_url": "webp/shoes/1051_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "flats", "lace", "comfortable"]
+      "tags": "none"
     },
     {
       "id": 1052,
       "category_id": "shoes",
-      "name": "Crystal Strappy Sandals",
+      "name": "none",
+      "asset_generation_prompt": "Strappy crystal-embellished bridal high-heel sandals, ankle strap, block heel--on a standing human model's feet only, viewed from above, sharp focus, gradient white background, centered.",
       "description": "Strappy crystal-embellished bridal high-heel sandals, ankle strap, block heel",
       "image_url": "webp/shoes/1052.webp",
       "thumbnail_url": "webp/shoes/1052_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "sandals", "crystal", "block-heel"]
+      "tags": "none"
     },
     {
       "id": 1053,
       "category_id": "shoes",
-      "name": "Victorian Lace-Up Boots",
+      "name": "none",
+      "asset_generation_prompt": "Victorian-style white leather ankle boots, lace-up front, low block heel--on a standing human model's feet only, showing the lower calves, studio lighting, gradient white background, centered.",
       "description": "Victorian-style white leather ankle boots, lace-up front, low block heel",
       "image_url": "webp/shoes/1053.webp",
       "thumbnail_url": "webp/shoes/1053_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "boots", "vintage", "leather"]
+      "tags": "none"
     },
     {
       "id": 1054,
       "category_id": "shoes",
-      "name": "Velvet Buckle Pumps",
+      "name": "none",
+      "asset_generation_prompt": "White velvet pointed-toe pumps, high heel, single silver buckle detail--on a standing human model's feet only, shot from eye level, cinematic lighting, gradient white background, centered.",
       "description": "White velvet pointed-toe pumps, high heel, single silver buckle detail",
       "image_url": "webp/shoes/1054.webp",
       "thumbnail_url": "webp/shoes/1054_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "pumps", "velvet", "buckle"]
+      "tags": "none"
     },
     {
       "id": 1055,
       "category_id": "shoes",
-      "name": "Silk Flower Platforms",
+      "name": "none",
+      "asset_generation_prompt": "Ivory silk platform heels, peep toe, adorned with a large chiffon flower--on a standing human model's feet only, very close-up focusing on the toe area, soft diffused light, gradient white background, centered.",
       "description": "Ivory silk platform heels, peep toe, adorned with a large chiffon flower",
       "image_url": "webp/shoes/1055.webp",
       "thumbnail_url": "webp/shoes/1055_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "platforms", "silk", "flower"]
+      "tags": "none"
     },
     {
       "id": 1056,
       "category_id": "shoes",
-      "name": "Leather Espadrille Wedges",
+      "name": "none",
+      "asset_generation_prompt": "Chic white leather espadrille wedges, ribbon ankle ties, open toe--on a standing human model's feet only, full shoe view, bright daylight, gradient white background, centered.",
       "description": "Chic white leather espadrille wedges, ribbon ankle ties, open toe",
       "image_url": "webp/shoes/1056.webp",
       "thumbnail_url": "webp/shoes/1056_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "wedges", "espadrille", "ribbon"]
+      "tags": "none"
     },
     {
       "id": 1057,
       "category_id": "shoes",
-      "name": "Silver Glitter Slingbacks",
+      "name": "none",
+      "asset_generation_prompt": "Fully glitter-covered high-heel slingback shoes, metallic silver finish--on a standing human model's feet only, shot from a low angle, dramatic spotlighting, gradient white background, centered.",
       "description": "Fully glitter-covered high-heel slingback shoes, metallic silver finish",
       "image_url": "webp/shoes/1057.webp",
       "thumbnail_url": "webp/shoes/1057_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "slingback", "glitter", "silver"]
+      "tags": "none"
     },
     {
       "id": 1058,
       "category_id": "shoes",
-      "name": "Floral Painted Block Heels",
+      "name": "none",
+      "asset_generation_prompt": "Hand-painted floral design on white leather block heels, medium height heel--on a standing human model's feet only, macro shot focusing on the painted detail, detailed photography, gradient white background, centered.",
       "description": "Hand-painted floral design on white leather block heels, medium height heel",
       "image_url": "webp/shoes/1058.webp",
       "thumbnail_url": "webp/shoes/1058_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "block-heel", "floral", "painted"]
+      "tags": "none"
     },
     {
       "id": 1059,
       "category_id": "shoes",
-      "name": "Pearl Embellished Pumps",
+      "name": "none",
+      "asset_generation_prompt": "Pointed-toe satin bridal pumps, 4-inch stiletto heel, embellished with scattered pearls--on a standing human model's feet only, cropped at the ankles, soft light, gradient white background, centered.",
       "description": "Pointed-toe satin bridal pumps, 4-inch stiletto heel, embellished with scattered pearls",
       "image_url": "webp/shoes/1059.webp",
       "thumbnail_url": "webp/shoes/1059_thumb.webp",
       "overlay_image": "none",
-      "tags": ["shoes", "pumps", "satin", "pearls"]
+      "tags": "none"
     }
   ]
 }
