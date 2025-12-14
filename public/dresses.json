@@ -38,7 +38,19 @@
       "name": "Shoes",
       "icon": "👠",
       "display_order": 6
-    }
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "icon": "💐",
+      "display_order": 7
+    },
+    {
+      "id": "jewelry",
+      "name": "Jewelry",
+      "icon": "💎",
+      "display_order": 8
+    }    
   ],
   "options": [
     {
