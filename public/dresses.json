@@ -6,49 +6,49 @@
     {
       "id": "hair",
       "name": "Hair Styles",
-      "icon": "💇‍♀️",
+      "icon": "hair_icon",
       "display_order": 1
     },
     {
       "id": "top",
       "name": "Tops",
-      "icon": "👗",
+      "icon": "top_icon",
       "display_order": 2
     },
     {
       "id": "skirt",
       "name": "Skirt Styles",
-      "icon": "👑",
+      "icon": "skirt_icon",
       "display_order": 3
     },
     {
       "id": "veil",
       "name": "Veils",
-      "icon": "👰",
+      "icon": "veil_icon",
       "display_order": 4
     },
     {
       "id": "gloves",
       "name": "Gloves",
-      "icon": "🧤",
+      "icon": "gloves_icon",
       "display_order": 5
     },
     {
       "id": "shoes",
       "name": "Shoes",
-      "icon": "👠",
+      "icon": "shoes_icon",
       "display_order": 6
     },
     {
       "id": "flowers",
       "name": "Flowers",
-      "icon": "💐",
+      "icon": "flowers_icon",
       "display_order": 7
     },
     {
       "id": "jewelry",
       "name": "Jewelry",
-      "icon": "💎",
+      "icon": "jewelry_icon",
       "display_order": 8
     }    
   ],
