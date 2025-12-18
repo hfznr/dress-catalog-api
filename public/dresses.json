@@ -5,7 +5,7 @@
   "categories": [
     {
       "id": "hair",
-      "name": "Hair Styles",
+      "name": "Hair",
       "icon": "hair_icon",
       "display_order": 1
     },
@@ -17,7 +17,7 @@
     },
     {
       "id": "skirt",
-      "name": "Skirt Styles",
+      "name": "Skirt",
       "icon": "skirt_icon",
       "display_order": 3
     },
