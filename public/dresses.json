@@ -34,12 +34,6 @@
       "display_order": 5
     },
     {
-      "id": "shoes",
-      "name": "Shoes",
-      "icon": "shoes_icon",
-      "display_order": 6
-    },
-    {
       "id": "flower",
       "name": "Flowers",
       "icon": "flowers_icon",
@@ -606,116 +600,6 @@
     "description": "Chapel length veil, flowing soft tulle",
     "image_url": "webp/veil/1049.webp",
     "thumbnail_url": "webp/veil/1049_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1050,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Elegant ivory satin bridal pumps with a pointed toe and mid-height stiletto heel, featuring a subtle pearl-embellished heel detail--on a standing human model's feet only, macro shot focusing on the satin texture, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Elegant ivory satin bridal pumps with a pointed toe and mid-height stiletto heel, featuring a subtle pearl-embellished heel detail",
-    "image_url": "webp/shoes/1050.webp",
-    "thumbnail_url": "webp/shoes/1050_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1051,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Modern minimalist bridal sandals crafted in smooth white leather with thin ankle straps and a slim high heel--on a standing human model's feet only, macro shot highlighting the leather finish and strap construction, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Modern minimalist bridal sandals crafted in smooth white leather with thin ankle straps and a slim high heel",
-    "image_url": "webp/shoes/1051.webp",
-    "thumbnail_url": "webp/shoes/1051_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1052,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Classic bridal pointed-toe slingback heels in matte ivory leather with a low kitten heel for comfort and elegance--on a standing human model's feet only, macro shot focusing on the slingback strap and toe shape, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Classic bridal pointed-toe slingback heels in matte ivory leather with a low kitten heel for comfort and elegance",
-    "image_url": "webp/shoes/1052.webp",
-    "thumbnail_url": "webp/shoes/1052_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1053,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Romantic bridal block-heel sandals in soft satin with crisscross straps and a cushioned insole--on a standing human model's feet only, macro shot emphasizing the strap details and fabric texture, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Romantic bridal block-heel sandals in soft satin with crisscross straps and a cushioned insole",
-    "image_url": "webp/shoes/1053.webp",
-    "thumbnail_url": "webp/shoes/1053_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1054,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Contemporary bridal mules with a pointed toe in smooth silk-like fabric and a sculptural mid-height heel--on a standing human model's feet only, macro shot focusing on the heel design and toe silhouette, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Contemporary bridal mules with a pointed toe in smooth silk-like fabric and a sculptural mid-height heel",
-    "image_url": "webp/shoes/1054.webp",
-    "thumbnail_url": "webp/shoes/1054_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1055,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Timeless bridal stilettos in polished white leather with a pointed toe and a slim high heel, finished with a subtle metallic sole edge--on a standing human model's feet only, macro shot highlighting the leather grain and heel profile, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Timeless bridal stilettos in polished white leather with a pointed toe and a slim high heel, finished with a subtle metallic sole edge",
-    "image_url": "webp/shoes/1055.webp",
-    "thumbnail_url": "webp/shoes/1055_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1056,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Delicate bridal ankle-strap heels in ivory satin with a softly rounded toe and a slender heel--on a standing human model's feet only, macro shot capturing the ankle strap buckle and satin sheen, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Delicate bridal ankle-strap heels in ivory satin with a softly rounded toe and a slender heel",
-    "image_url": "webp/shoes/1056.webp",
-    "thumbnail_url": "webp/shoes/1056_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1057,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Modern bridal block heels in smooth white leather with a square toe and minimalist silhouette--on a standing human model's feet only, macro shot focusing on the toe shape and clean leather finish, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Modern bridal block heels in smooth white leather with a square toe and minimalist silhouette",
-    "image_url": "webp/shoes/1057.webp",
-    "thumbnail_url": "webp/shoes/1057_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1058,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Elegant bridal peep-toe heels in ivory satin with a slim stiletto and discreet platform for added comfort--on a standing human model's feet only, macro shot emphasizing the peep-toe opening and fabric texture, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Elegant bridal peep-toe heels in ivory satin with a slim stiletto and discreet platform for added comfort",
-    "image_url": "webp/shoes/1058.webp",
-    "thumbnail_url": "webp/shoes/1058_thumb.webp",
-    "overlay_image": "none",
-    "tags": "none"
-  },
-  {
-    "id": 1059,
-    "category_id": "shoes",
-    "name": "none",
-    "asset_generation_prompt": "Refined bridal kitten heels in soft white suede with a pointed toe and minimalist design, suitable for all-day wear--on a standing human model's feet only, macro shot highlighting the suede texture and heel height, detailed photography, solid hex #FFFFFF background, commercial product photography, centered.",
-    "description": "Refined bridal kitten heels in soft white suede with a pointed toe and minimalist design, suitable for all-day wear",
-    "image_url": "webp/shoes/1059.webp",
-    "thumbnail_url": "webp/shoes/1059_thumb.webp",
     "overlay_image": "none",
     "tags": "none"
   },
